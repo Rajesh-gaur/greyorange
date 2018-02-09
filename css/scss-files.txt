@@ -1,0 +1,23 @@
+The scss source files are available in the pro version.
+
+
+
+.menu-item-has-children {
+    &:before {
+        content:"+ ";
+        color: $white;
+    }
+}
+.current {
+    &:before {
+        content:"- ";
+    }
+}
+.menu-item-has-children {
+    margin-left: 2%;
+}
+.sub-menu {
+    li {
+        margin-left: 2%;
+    }
+}
