@@ -30,8 +30,8 @@
 		   <h1>Butler Fulfillment Solution</h1>
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-				<li class="breadcrumb-item" aria-current="page"><a href="#">Autonomus Fulfillment Solutions </a></li>
-				<li class="breadcrumb-item active" aria-current="page">Butler Fulfillmnt Solution</li>
+				<li class="breadcrumb-item" aria-current="page"><a href="#">Autonomous Fulfillment Solutions </a></li>
+				<li class="breadcrumb-item active" aria-current="page">Butler Fulfillment Solution</li>
 			  </ol>
 			</nav>
 		</div>
@@ -48,7 +48,7 @@
 		    <div class="col-md-6 col-sm-12">
   		      <h3>Introducing GreyOrange Butler</h3>
 			  <p>An innovative goods-to-person technology, powered by Artificial Intelligence,
-			     for automated inventory management; storage (putaway) and replenishment; picking and combining orders in
+			     for automated inventory management; storage (put away) and replenishment; picking and combining orders in
 			     fulfillment and distribution centers.</p>
 		    </div>
 			<div class="col-md-6 col-sm-12">
@@ -78,20 +78,20 @@
 	  and manages various devices to drive autonomous collaboration. </p>
 	
 	
-	<div class="col-sm-4">
+	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-sm-3"><img src="images/growth.png" alt="" /></div>
-		  <div class="col-sm-9">
+	      <div class="col-md-3 col-sm-12"><img src="images/growth.png" alt="ENHANCES BUSINESS AGILITY AND GROWTH" class="img-fluid" /></div>
+		  <div class="col-md-9 col-sm-12">
 			<h4>ENHANCES BUSINESS AGILITY AND GROWTH</h4>
 			<p>Adapts to changing inventory profiles, demand patterns and peaks</p>
 		  </div>					   
         </div>
     </div>
 	
-	<div class="col-sm-4">
+	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-sm-3"><img src="images/growth.png" alt="" /></div>
-		  <div class="col-sm-9">
+	      <div class="col-md-3 col-sm-12"><img src="images/lower-cost.png" alt="LOWER OPERATING COSTS" class="img-fluid" /></div>
+		  <div class="col-md-9 col-sm-12">
 	        <h4>LOWER OPERATING COSTS</h4>
 	        <p>Operator time saving by up to 70%</p>	 
 		  </div>					   
@@ -100,47 +100,47 @@
 	
 	
 	
-	<div class="col-sm-4">
+	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-sm-3"><img src="images/growth.png" alt="" /></div>
-		  <div class="col-sm-9">
+	      <div class="col-md-3 col-sm-12"><img src="images/eliminate.png" alt="ELIMINATE COMPLEXITY" class="img-fluid" /></div>
+		  <div class="col-md-9 col-sm-12">
 			 <h4>ELIMINATE COMPLEXITY</h4>
 			 <p>Reduces waste, increases efficiency </p>	 
 		  </div>					   
         </div>
     </div>
 	
-	<div class="col-sm-4">
+	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-sm-3"><img src="images/growth.png" alt="" /></div>
-		  <div class="col-sm-9">
+	      <div class="col-md-3 col-sm-12"><img src="images/business.png" alt="BUSINESS CONTINUITY" class="img-fluid" /></div>
+		  <div class="col-md-9 col-sm-12">
 	         <h4>BUSINESS CONTINUITY</h4>
 	        <p>24/7 operations and up to 99% availability</p>	
 		  </div>					   
         </div>
     </div>
 	
-	<div class="col-sm-4">
+	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-sm-3"><img src="images/growth.png" alt="" /></div>
-		  <div class="col-sm-9">
+	      <div class="col-md-3 col-sm-12"><img src="images/empowerd-workforce.png" alt="EMPOWERED WORKFORCE" class="img-fluid" /></div>
+		  <div class="col-md-9 col-sm-12">
 			 <h4>EMPOWERED WORKFORCE</h4>
 			 <p>Improves employee satisfaction</p>	
 		  </div>					   
         </div>
     </div>
 	
-	<div class="col-sm-4">
+	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-sm-3"><img src="images/growth.png" alt="" /></div>
-		  <div class="col-sm-9">
+	      <div class="col-md-3 col-sm-12"><img src="images/speed_icons.png" alt="IMPROVES SPEED AND ACCURACY" class="img-fluid" /></div>
+		  <div class="col-md-9 col-sm-12">
 			 <h4>IMPROVES SPEED AND ACCURACY</h4>
 			 <p>Faster and accurate fulfillment</p>
 		  </div>					   
         </div>
     </div>
  
-     <div class="col-sm-12">
+     <div class="col-md-12 col-sm-12">
 	    <button class="btn cta-btn">Download Brochure </button>
 	    <button class="btn cta-btn">Check Case Studies</button>
 	 </div>
@@ -314,8 +314,24 @@
 			
 	     </div>
 	    </div>
- 
- </div>
+	 </div><!--container-->
+	 
+	<div class="container bulter-img-pics">
+	<div class="row">
+		<div class="col-md-6 col-sm-12">
+		  <div class="row">
+		   <img src="images/grey-metter-img.jpg" class="img-fluid" alt="" />
+		   </div>
+		</div>
+		
+       <div class="col-md-6 col-sm-12">
+	     <div class="row">
+		   <img src="images/pickto-ship-img.jpg" class="img-fluid" alt="" />
+	  	 </div>
+		</div>
+	</div>	
+	</div>	
+
 </section>
 	
 

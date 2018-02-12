@@ -4,10 +4,47 @@
 	  
         <div class="get-in-touch text-center">
 	     <h2><strong>Need Some Help? </strong>Lets Connect</h2>
-		 <a class="cta-btn btn" href="#">Get in touch</a>
+	       <a class="cta-btn btn" href="#myModal" data-toggle="modal">Get in touch</a>
 	    </div>	  
 	  </div>
 	 </div>
+	 
+	 
+<!--model-popup-->
+  
+<div class="modal" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalVerticalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Get in touch</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="modal-body">
+			
+			<input class="form-control form-control-sm" type="text" placeholder=".form-control-sm">
+                <select class="custom-select">
+				  <option selected>Open this select menu</option>
+				  <option value="1">One</option>
+				  <option value="2">Two</option>
+				  <option value="3">Three</option>
+				</select>
+				
+				
+				
+				
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary">Save changes</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!--model-popup-end-->	 
+	 
+	 
 	 <div class="container footer-bottoms">
 	   <div class="row">
 	 

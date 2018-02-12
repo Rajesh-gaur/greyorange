@@ -24,9 +24,9 @@
 		        </div>
 			  <div class="menu-block">	
                 <ul class="list-unstyled components">
-				   <p>vcbbbbbbvbcbvvbc</p>				   
+				   		   
 				   <li> <a href="#">About</a></li>
-                    <li class="active">
+                    <li class="">
                         <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false">Press</a>
                         <ul class="collapse list-unstyled" id="homeSubmenu">
                             <li><a href="#">Press Release</a></li>

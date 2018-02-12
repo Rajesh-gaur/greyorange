@@ -174,7 +174,7 @@ automation in warehouses, fulfillment centers and distribution centers</p>
             </div>
           </div>  
      
-        <div class="col-sm-12 text-center"><a class="cta-btn btn" href="#">View More</a></div>
+        <div class="col-sm-12 text-center"><a class="cta-btn btn" href="case.php">View More</a></div>
 		  
         </div><!--row-->
       </div><!--container-->
@@ -309,6 +309,6 @@ automation in warehouses, fulfillment centers and distribution centers</p>
 	 });
 </script>
 
-  
+
 </body>
 </html>

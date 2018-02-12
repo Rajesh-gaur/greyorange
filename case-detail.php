@@ -39,7 +39,7 @@
 	    <img src="images/case-detail-banner.jpg" alt="case" class="img-fluid"/>
 		
 		<div class="join">
-			<div class="col-sm-12">
+			<div class="col-md-12 col-sm-12">
 			  <div class="row">
 				 <div class="offset-7 col-sm-5 info-block">		 
 					  <div class="join-us">
@@ -62,7 +62,7 @@
 	  increased storage efficiency, improved volumetric storage utilization, and improved</p>
 	
 	<div class="case-detail-desc row">  
-	  <div class="case-issue col-sm-6">
+	  <div class="case-issue col-md-6 col-sm-12">
 	     <ul class="list-group">
 		  <li class="list-group-item active case-problem">What is The Problem?</li>
 		  <li class="list-group-item">Fragmented inventory across DCs</li>
@@ -70,7 +70,7 @@
 		  <li class="list-group-item">Higher days-on-hand leads to higher holding cost</li>
 		</ul>
 	  </div>
-	  <div class="case-solve col-sm-6">
+	  <div class="case-solve col-md-6 col-sm-12">
 	     <ul class="list-group">
 		  <li class="list-group-item active case-solution">Soluiton we provide?</li>
 		  <li class="list-group-item">RDC order consolidation for pull model brings down days of inventory on hand </li>
