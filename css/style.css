@@ -1330,4 +1330,5 @@ background-position: 10px 3px;list-style: none;}
 	.event-section1, .event-section2, .event-img-section1,.event-img-section2{margin:0;}
 	.event-section1, .event-section2{padding: 35px;}
 }	 
-	 
+
+.show .modal-dialog{top: 25%;}	 
