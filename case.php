@@ -34,29 +34,15 @@
 			  </ol>
 			</nav>
 		</div>		
-	    <img src="images/case-banner.jpg" alt="case" class="img-fluid"/>
+	    <img src="images/case-study-banner.jpg" alt="case" class="img-fluid"/>
 	  </div>
 	</section>
 
 
   <section id="case-study" class="case-study-section">
       <div class="container">
-        <div class="section-header wow fadeInUp">
-          <h3 class="text-left">Case Studies Across The Globe</h3>
-        </div>
-
+        <br/><br/>
         <div class="row">
-          <div class="case-block col-lg-6 col-md-6 wow fadeInUp">
-            <div class="member">
-              <img src="images/case1.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Consumer Products Good Distributor Efficiency</h4>
-                  <span><a href="case-detail.php">Improving efficiency of Regional DCs (RDC)</a></span>
-                </div>
-              </div>
-            </div>
-          </div>
            
           <div class="case-block col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
