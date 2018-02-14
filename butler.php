@@ -141,8 +141,8 @@
     </div>
  
      <div class="col-md-12 col-sm-12">
-	    <button class="btn cta-btn">Download Brochure </button>
-	    <button class="btn cta-btn">Check Case Studies</button>
+	    <a href="javascript:;" class="btn cta-btn">Download Brochure </a>
+	    <a href="javascript:;" class="btn cta-btn">Check Case Studies</a>
 	 </div>
 	
      </div>  

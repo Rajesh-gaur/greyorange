@@ -23,21 +23,53 @@
             </div>
             <div class="modal-body">
 			
-			<input class="form-control form-control-sm" type="text" placeholder=".form-control-sm">
-                <select class="custom-select">
-				  <option selected>Open this select menu</option>
-				  <option value="1">One</option>
-				  <option value="2">Two</option>
-				  <option value="3">Three</option>
-				</select>
+			 <form action="#" method="post">
+			 <div class="row">
+			 
+			  <div class="col-sm-12 col-md-6 form-group">
+				<label for="fname">First Name</label>
+				<input type="text" class="form-control" name="fname" placeholder="Jhon">
+			  </div>
+			  <div class="col-sm-12 col-md-6 form-group">
+				<label for="lname">Last Name</label>
+				<input type="text" class="form-control" name="lname" placeholder="Peter">
+			  </div>
+
+			  <div class="col-sm-12 col-md-6 form-group">
+				<label for="email">Email</label>
+				<input type="email" class="form-control" name="email" placeholder="jhone@xyz.com">
+			  </div>
+			  <div class="col-sm-12 col-md-6 form-group">
+				<label for="company">Company</label>
+				<input type="text" class="form-control" name="company" placeholder="greyorange">
+			  </div>
+			  
+			  <div class="col-sm-12 col-md-6 form-group">
+				<label for="region">Region</label>
+				<input type="text" class="form-control" name="region" placeholder="Region">
+			  </div>
+			  <div class="col-sm-12 col-md-6 form-group">
+				<label for="Sub-Region">Sub-Region</label>
+				<input type="text" class="form-control" name="sub-region" placeholder="Sub-Region">
+			  </div>
+
+			  <div class="col-sm-12 col-md-12 form-group">
+				<label for="message">Message</label>
+				 <textarea class="form-control" name="message" ></textarea>
+			  </div>
+			  
+			   <div class="col-sm-12 col-md-12 text-center">
+			     <input type="submit" name="submit" value="Submit" class="btn btn-primary get-touch-btn" />
+			   </div>
+			  
+			 </div> 			 
+		   </form>
 				
 				
 				
 				
             </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-primary">Save</button>
-            </div>
+           
         </div>
     </div>
 </div>

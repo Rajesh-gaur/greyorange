@@ -261,7 +261,7 @@
 		  <div class="row"><img src="images/grey-metter-img.jpg" class="img-fluid" alt="" /></div>
 		</div>		
          <div class="col-sm-6">
-	       <div class="row"><img src="images/pickto-ship-img.jpg" class="img-fluid" alt="" /></div>
+	       <div class="row"><img src="images/revolutionary.jpg" class="img-fluid" alt="" /></div>
 		 </div>
 	  </div>	
 	</div><!--container bulter-img-pics-->	
