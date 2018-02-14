@@ -46,46 +46,60 @@
            
           <div class="case-block col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
-              <img src="images/case2.jpg" class="img-fluid" alt="">
+              <img src="images/case1.jpg" class="img-fluid" alt="Parcel Sortation">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>3PL DC for Global Leader</h4>
-                  <span><a href="case-detail.php">Storage exclusions to improve fulfillment accuracy</a></span>
+                  <h4>Parcel Sortation</h4>
+                  <span><a href="parcel-sortation.php">Delivered higher throughput parcel sortation for 3PL/E-Commerce/Parcel Courier</a></span>
                 </div>
               </div>
             </div>
           </div>
 
+          
           <div class="case-block col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
-              <img src="images/case3.jpg" class="img-fluid" alt="">
+              <img src="images/ecommerce-fulfill.jpg" class="img-fluid" alt="Ecommerce-fulfillment">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Omni-Channel Fulfillment</h4>
-                  <span><a href="case-detail.php">Unified order picking and consolidation model for e-commerce, in-store pickup and store orders</a></span>                  
+                  <h4>Vertical Ecommerce Fulfillment</h4>
+                  <span><a href="ecommerce-fulfillment.php">Japan’s largest home furnishing chain (400 stores),
+fulfilling online orders from over 10,000 SKUs</a></span>                  
+                </div>
+              </div>
+            </div>
+          </div> 
+		  <div class="case-block col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="member">
+              <img src="images/order-consolidation.jpg" class="img-fluid" alt="Order Consolidation">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Order Consolidation</h4>
+                  <span><a href="order-consolidation.php">Delivered
+higher throughput order consolidation for vertical e-commerce.</a></span>                  
                 </div>
               </div>
             </div>
           </div>
           <div class="case-block col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
-              <img src="images/case4.jpg" class="img-fluid" alt="">
+              <img src="images/use-case.jpg" class="img-fluid" alt="Consumer Products">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Parcel Sortation</h4>
-                  <span><a href="case-detail.php">Delivering higher throughput parcel sortation for 3PL/ E-commerce/ Parcel Courier</a></span>                  
+                  <h4>Consumer Products Goods Distributor Efficiency</h4>
+                  <span><a href="consumer-products.php">MNC consumer goods leader in Gartner supply chain top 25</a></span>                  
                 </div>
               </div>
             </div>
-          </div> 
+          </div>
 		  
-            <div class="case-block col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+		  <div class="case-block col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
-              <img src="images/case5.jpg" class="img-fluid" alt="">
+              <img src="images/omni-channel.jpg" class="img-fluid" alt="omni channel">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Order Consolidation</h4>
-                  <span><a href="case-detail.php">Unified order picking and consolidation model for e-commerce, in-store pickup and store orders</a></span>                  
+                  <h4>Omni - channel fulfillment center</h4>
+                  <span><a href="case-detail.php">Leading home improvement store chain in Latin America</a></span>                  
                 </div>
               </div>
             </div>

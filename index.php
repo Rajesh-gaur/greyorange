@@ -247,7 +247,7 @@ automation in warehouses, fulfillment centers and distribution centers</p>
                   <div class="calender-add"><a href="#"><i class="fa fa-plus-circle"></i> Add to Calendar</a></div>
 				</div>			   
 			 </div><!--row events-block--> 		 
-		    <div class="view-all-news"><a href="#">View All News</a></div>
+		    <div class="view-all-news"><a href="events.php">View All News</a></div>
 		 </div><!--events-->
 		
 	   </div><!--row--> 		

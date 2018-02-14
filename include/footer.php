@@ -87,21 +87,21 @@
 	     <ul class="footer-links">
 		   <li><a href="#">Solutions</a></li> 
 		   <li><a href="#">Support</a></li> 
-		   <li><a href="#">Contact us</a></li> 
+		   <li><a href="contact.php">Contact us</a></li> 
 		   <li><a href="#">About us</a></li> 
 		   <li><a href="#">Press</a></li> 
-		   <li><a href="#">Events</a></li> 
-		   <li><a href="#">Partners</a></li> 
+		   <li><a href="events.php">Events</a></li> 
+		   <li><a href="locate-partner.php">Partners</a></li> 
 		   <li><a href="#">Careers</a></li> 
 		   <li><a href="case.php">Case Study</a></li> 
 		 </ul>
       </div>  
 	  
 	  <div class="col-sm-2 text-right">	   
-	      <img src="images/facebook.png" alt="facebook" />
-	      <img src="images/twitter.png" alt="twitter" />
-	      <img src="images/linkdin.png" alt="linkdin" />
-	      <img src="images/youtube.png" alt="youtube" />
+	      <a href="https://www.facebook.com/gogreyorange" target="_blank"><img src="images/facebook.png" alt="facebook" /></a>
+	      <a href="https://twitter.com/gogreyorange" target="_blank"><img src="images/twitter.png" alt="twitter" /></a>
+	      <a href="https://www.linkedin.com/company/gogreyorange" target="_blank"><img src="images/linkdin.png" alt="linkdin" /></a>
+	      <a href="https://www.youtube.com/channel/UCGLcH2hQiILnteafeYh_qOA" target="_blank"><img src="images/youtube.png" alt="youtube" /></a>
       </div>
 	  
 	   </div>

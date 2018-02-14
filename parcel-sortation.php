@@ -27,16 +27,16 @@
 	   <div class="inner-head">
 	       
 		   <nav aria-label="breadcrumb">
-		   <h1>Omni Channel</h1>
+		   <h1>Parcel Sortation</h1>
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Home</a></li>
 				<li class="breadcrumb-item" aria-current="page"><a href="case.php">Case Studies</a></li>
-				<li class="breadcrumb-item active" aria-current="page">Omni Channel</li>
+				<li class="breadcrumb-item active" aria-current="page">Parcel Sortation</li>
 			  </ol>
 			</nav>
 		</div>
 		
-	    <img src="images/case-detail-banner.jpg" alt="case" class="img-fluid"/>
+	    <img src="images/parcel-sortation.jpg" alt="parcel" class="img-fluid"/>
 		
 		<div class="join">
 			<div class="col-md-12 col-sm-12">
@@ -57,31 +57,29 @@
  <section class="case-product-desc">
     <div class="container">
     
-   	  <h2>Omni - channel fulfillment center</h2>
-	  <p>Leading home improvement store chain in Latin America</p>
+   	  <h2>Parcel Sortation</h2>
+	  <p>GreyOrange sorter delivered higher
+throughput parcel sortation for 3PL/E-Commerce/Parcel Courier.</p>
 	
 	<div class="case-detail-desc row">  
 	  <div class="case-issue col-md-6 col-sm-12">
 	     <ul class="list-group">
-		  <li class="list-group-item active case-problem">What is The Problem?</li>
-		  <li class="list-group-item">Manage complex omni-channel
-deliveries</li>
-		  <li class="list-group-item">Manage multiple inventory
-types (pallets, cases, inner
-cases, and eaches)
-Higher number of SKUs</li>
+		  <li class="list-group-item active case-problem">Customer Challenges</li>
+		  <li class="list-group-item">High number of touch points</li>
+		  <li class="list-group-item">High Cost of Operation</li>
+		  <li class="list-group-item">Slow TAT for Last Mile Delivery</li>
+		  <li class="list-group-item">Low Per Person Productivity</li>
+		  <li class="list-group-item">Shipment Profiling at High Throughput</li>
 		</ul>
 	  </div>
 	  <div class="case-solve col-md-6 col-sm-12">
 	     <ul class="list-group">
-		  <li class="list-group-item active case-solution">Soluiton we provide?</li>
-		  <li class="list-group-item">Unified order picking and
-consolidation model
-Reduced dock to stock time
-and days on hand inventory
-at client's stores</li>
-		  <li class="list-group-item">Manpower savings and space
-optimizations</li>
+		  <li class="list-group-item active case-solution">Benefits Delivered </li>
+		  <li class="list-group-item">Productivity Gain by 100%</li>
+		  <li class="list-group-item">Workforce efficiency</li>
+		  <li class="list-group-item">increased by 40%</li>
+		  <li class="list-group-item">100% profiling</li>
+		  <li class="list-group-item">Sorting Space up to 15%</li>
 		</ul>
 	  </div>	  
 	  

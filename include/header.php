@@ -7,9 +7,9 @@
       </div>      
 	  <div class="head-menu">
 	    <ul>
-		   <li><a href="#">Products</a></li>
+		   <li><a href="butler.php">Products</a></li>
 		   <li><a href="#">Support</a></li>
-		   <li><a href="#">Contact Us</a></li>
+		   <li><a href="contact.php">Contact Us</a></li>
 		</ul>
 	  </div>
 	  
@@ -43,10 +43,10 @@
                             <li><a href="#">Events 3</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Partners</a></li>
+                    <li><a href="locate-partner.php">Partners</a></li>
                     <li><a href="#">Careers</a></li>
                     <li>
-                        <a href="#">Case Study</a>
+                        <a href="case.php">Case Study</a>
                     </li>
                 </ul>
              </div>

@@ -27,16 +27,16 @@
 	   <div class="inner-head">
 	       
 		   <nav aria-label="breadcrumb">
-		   <h1>Omni Channel</h1>
+		   <h1>Vertical E-commerce Fulfillment</h1>
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Home</a></li>
 				<li class="breadcrumb-item" aria-current="page"><a href="case.php">Case Studies</a></li>
-				<li class="breadcrumb-item active" aria-current="page">Omni Channel</li>
+				<li class="breadcrumb-item active" aria-current="page">Vertical E-commerce Fulfillment</li>
 			  </ol>
 			</nav>
 		</div>
 		
-	    <img src="images/case-detail-banner.jpg" alt="case" class="img-fluid"/>
+	    <img src="images/ecommerce-fulfillment-banner.jpg" alt="Vertical E-commerce Fulfillment-banner" class="img-fluid"/>
 		
 		<div class="join">
 			<div class="col-md-12 col-sm-12">
@@ -57,31 +57,26 @@
  <section class="case-product-desc">
     <div class="container">
     
-   	  <h2>Omni - channel fulfillment center</h2>
-	  <p>Leading home improvement store chain in Latin America</p>
+   	  <h2>Vertical E-commerce Fulfillment</h2>
+	  <p>Japan’s largest home furnishing chain (400 stores),
+fulfilling online orders from over 10,000 SKUs</p>
 	
 	<div class="case-detail-desc row">  
 	  <div class="case-issue col-md-6 col-sm-12">
 	     <ul class="list-group">
-		  <li class="list-group-item active case-problem">What is The Problem?</li>
-		  <li class="list-group-item">Manage complex omni-channel
-deliveries</li>
-		  <li class="list-group-item">Manage multiple inventory
-types (pallets, cases, inner
-cases, and eaches)
-Higher number of SKUs</li>
+		  <li class="list-group-item active case-problem">Problem Statement</li>
+		  <li class="list-group-item">Volume of online orders was
+increasing, with order lines per order decreasing slightly – as a result customers ordered more frequently, with each order having fewer items</li>
+		  <li class="list-group-item">More customers were expecting same and next day delivery New SKUs were added often Seasonal products for summer
+and winter had longer periods of storage, if not managed efficiently</li>
 		</ul>
 	  </div>
 	  <div class="case-solve col-md-6 col-sm-12">
 	     <ul class="list-group">
-		  <li class="list-group-item active case-solution">Soluiton we provide?</li>
-		  <li class="list-group-item">Unified order picking and
-consolidation model
-Reduced dock to stock time
-and days on hand inventory
-at client's stores</li>
-		  <li class="list-group-item">Manpower savings and space
-optimizations</li>
+		  <li class="list-group-item active case-solution">Butler Solution</li>
+		  <li class="list-group-item">Increased accuracy in order fulfillment of 3 to less then 10 items. Speed and efficiency in fulfillment of 
+		  many more orders with fewer items Rise in operator comfort and productivity</li>
+		  <li class="list-group-item">Better use of warehouse space allocation where popular goods are closer to operator</li>
 		</ul>
 	  </div>	  
 	  

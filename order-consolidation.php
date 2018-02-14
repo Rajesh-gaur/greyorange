@@ -27,16 +27,16 @@
 	   <div class="inner-head">
 	       
 		   <nav aria-label="breadcrumb">
-		   <h1>Omni Channel</h1>
+		   <h1>Order Consolidation</h1>
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Home</a></li>
 				<li class="breadcrumb-item" aria-current="page"><a href="case.php">Case Studies</a></li>
-				<li class="breadcrumb-item active" aria-current="page">Omni Channel</li>
+				<li class="breadcrumb-item active" aria-current="page">Order Consolidation</li>
 			  </ol>
 			</nav>
 		</div>
 		
-	    <img src="images/case-detail-banner.jpg" alt="case" class="img-fluid"/>
+	    <img src="images/parcel-sortation-banner.jpg" alt="parcel-sortation" class="img-fluid"/>
 		
 		<div class="join">
 			<div class="col-md-12 col-sm-12">
@@ -57,31 +57,27 @@
  <section class="case-product-desc">
     <div class="container">
     
-   	  <h2>Omni - channel fulfillment center</h2>
-	  <p>Leading home improvement store chain in Latin America</p>
+   	  <h2>Order Consolidation</h2>
+	  <p>GreyOrange sorter delivered higher throughput order consolidation for vertical e-commerce.</p>
 	
 	<div class="case-detail-desc row">  
 	  <div class="case-issue col-md-6 col-sm-12">
 	     <ul class="list-group">
-		  <li class="list-group-item active case-problem">What is The Problem?</li>
-		  <li class="list-group-item">Manage complex omni-channel
-deliveries</li>
-		  <li class="list-group-item">Manage multiple inventory
-types (pallets, cases, inner
-cases, and eaches)
-Higher number of SKUs</li>
+		  <li class="list-group-item active case-problem">Customer Challenges</li>
+		  <li class="list-group-item">Scalability at High Throughputs</li>
+		  <li class="list-group-item">Cutoff deadline irrespective of order volume</li>
+		  <li class="list-group-item">High Accuracy during Consolidation</li>
+		  <li class="list-group-item">SKU variability of shapes and sizes</li>
 		</ul>
 	  </div>
 	  <div class="case-solve col-md-6 col-sm-12">
 	     <ul class="list-group">
-		  <li class="list-group-item active case-solution">Soluiton we provide?</li>
-		  <li class="list-group-item">Unified order picking and
-consolidation model
-Reduced dock to stock time
-and days on hand inventory
-at client's stores</li>
-		  <li class="list-group-item">Manpower savings and space
-optimizations</li>
+		  <li class="list-group-item active case-solution">Benefits Delivered </li>
+		  <li class="list-group-item">Upto 10% reduction in cost per shipment</li>
+		  <li class="list-group-item">Productivity gains upto 50% - 99% Savings on</li>
+		  <li class="list-group-item">Re-Processing of mis-sorts or inaccuracies in consolidation</li>
+		  <li class="list-group-item">Upto 6% time savings on Returns/Cancellations</li>
+		  <li class="list-group-item">Area saving upto 25%</li>
 		</ul>
 	  </div>	  
 	  

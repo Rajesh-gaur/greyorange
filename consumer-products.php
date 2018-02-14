@@ -27,16 +27,16 @@
 	   <div class="inner-head">
 	       
 		   <nav aria-label="breadcrumb">
-		   <h1>Omni Channel</h1>
+		   <h1>Consumer Products</h1>
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Home</a></li>
 				<li class="breadcrumb-item" aria-current="page"><a href="case.php">Case Studies</a></li>
-				<li class="breadcrumb-item active" aria-current="page">Omni Channel</li>
+				<li class="breadcrumb-item active" aria-current="page">Consumer Products</li>
 			  </ol>
 			</nav>
 		</div>
 		
-	    <img src="images/case-detail-banner.jpg" alt="case" class="img-fluid"/>
+	    <img src="images/use-case-banner.jpg" alt="Vertical E-commerce Fulfillment-banner" class="img-fluid"/>
 		
 		<div class="join">
 			<div class="col-md-12 col-sm-12">
@@ -57,32 +57,24 @@
  <section class="case-product-desc">
     <div class="container">
     
-   	  <h2>Omni - channel fulfillment center</h2>
-	  <p>Leading home improvement store chain in Latin America</p>
+   	  <h2>Consumer Products Goods Distributor Efficiency</h2>
+	  <p>MNC consumer goods leader in Gartner supply chain top 25</p>
 	
 	<div class="case-detail-desc row">  
 	  <div class="case-issue col-md-6 col-sm-12">
 	     <ul class="list-group">
-		  <li class="list-group-item active case-problem">What is The Problem?</li>
-		  <li class="list-group-item">Manage complex omni-channel
-deliveries</li>
-		  <li class="list-group-item">Manage multiple inventory
-types (pallets, cases, inner
-cases, and eaches)
-Higher number of SKUs</li>
+		  <li class="list-group-item active case-problem">Problem Statement</li>
+		  <li class="list-group-item">Fragmented inventory across distribution networks Mismatched stock levels and demand</li>
+		  <li class="list-group-item">Higher days-on-hand leads to higher holding cost</li>
 		</ul>
 	  </div>
 	  <div class="case-solve col-md-6 col-sm-12">
 	     <ul class="list-group">
-		  <li class="list-group-item active case-solution">Soluiton we provide?</li>
-		  <li class="list-group-item">Unified order picking and
-consolidation model
-Reduced dock to stock time
-and days on hand inventory
-at client's stores</li>
-		  <li class="list-group-item">Manpower savings and space
-optimizations</li>
-		</ul>
+		  <li class="list-group-item active case-solution">Butler Solution</li>
+		  <li class="list-group-item">Transition from a Push to a Pull model, leading to enhanced supply chain efficiency</li>
+		  <li class="list-group-item">Faster order processing at Regional Distribution Centers (RDC) enabled Just-in-Time fulfillment</li>
+		  <li class="list-group-item">First-Manufactured-First-Out configuration setting reduced stock obsolescence</li>
+    	</ul>
 	  </div>	  
 	  
 	  </div>  
