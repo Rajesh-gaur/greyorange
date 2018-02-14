@@ -44,12 +44,7 @@
         <h2>Upcoming</h2>
         <div class="row">
         
-		 <!--for mobile-->
-		 <div class="mob-image col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-		    <div class="event-img-section1"> 
-  		     <img src="images/taipei.jpg" class="img-fluid" alt="">
-			</div> 
-          </div>
+		
 		 <!--mobile image-end-->
           <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="event-section1">             
