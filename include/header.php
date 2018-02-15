@@ -7,7 +7,7 @@
       </div>      
 	  <div class="head-menu">
 	    <ul>
-		   <li><a href="butler.php">Products</a></li>
+		   <li><a href="sorter.php">Products</a></li>
 		   <li><a href="#">Support</a></li>
 		   <li><a href="contact.php">Contact Us</a></li>
 		</ul>

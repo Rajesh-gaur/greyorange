@@ -4,11 +4,11 @@
   <meta charset="utf-8">
   <title>Greyorange</title>
   
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">  
   <meta content="" name="keywords">
   <meta content="" name="description">
  <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+ 
   <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link href="lib/animate/animate.min.css" rel="stylesheet">
@@ -140,11 +140,12 @@ automation in warehouses, fulfillment centers and distribution centers</p>
 
           <div class="case-block col-lg-4 col-md-6 wow fadeInUp">
             <div class="member">
-              <img src="images/case1.jpg" class="img-fluid" alt="">
+              <img src="images/ecommerce-fulfill.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Consumer Products Good Distributor Efficiency</h4>
-                  <span>Improving efficiency of Regional DCs (RDC)</span>
+                  <h4>Vertical Ecommerce Fulfillment</h4>
+                  <span><a href="ecommerce-fulfillment.php">Japan’s largest home furnishing chain (400 stores),
+fulfilling online orders from over 10,000 SKUs</a></span>   
                 </div>
               </div>
             </div>
@@ -152,11 +153,12 @@ automation in warehouses, fulfillment centers and distribution centers</p>
            
           <div class="case-block col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
-              <img src="images/case2.jpg" class="img-fluid" alt="">
+              <img src="images/order-consolidation.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>3PL DC for Global Leader</h4>
-                  <span>Storage exclusions to improve fulfillment accuracy</span>
+                 <h4>Order Consolidation</h4>
+                  <span><a href="order-consolidation.php">Delivered
+higher throughput order consolidation for vertical e-commerce.</a></span>  
                 </div>
               </div>
             </div>
@@ -164,11 +166,11 @@ automation in warehouses, fulfillment centers and distribution centers</p>
 
           <div class="case-block col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
-              <img src="images/case3.jpg" class="img-fluid" alt="">
+              <img src="images/case1.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Omni-Channel Fulfillment</h4>
-                  <span>Unified order picking and consolidation model for e-commerce, in-store pickup and store orders </span>                  
+                  <h4>Parcel Sortation</h4>
+                  <span><a href="parcel-sortation.php">Delivered higher throughput parcel sortation for 3PL/E-Commerce/Parcel Courier</a></span>                 
                 </div>
               </div>
             </div>
@@ -252,13 +254,9 @@ automation in warehouses, fulfillment centers and distribution centers</p>
 		
 	   </div><!--row--> 		
 	 </div><!--container--> 		
-   </section><!--#news-->
-
-
+   </section><!--#news-->   
    
-   
-  <?php include('include/footer.php');?>
-  
+  <?php include('include/footer.php');?>  
   <!-- JavaScript Libraries -->
   <script src="lib/jquery/jquery.min.js"></script>
   <script src="lib/jquery/jquery-migrate.min.js"></script>
@@ -274,8 +272,7 @@ automation in warehouses, fulfillment centers and distribution centers</p>
   <script src="lib/lightbox/js/lightbox.min.js"></script>
   <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
   <script src="js/main.js"></script>
-  <script>
-  
+  <script> 
 	var lastId,
 		topMenu = $("#pagers"),
 		topMenuHeight = topMenu.outerHeight()+0,
@@ -299,8 +296,6 @@ automation in warehouses, fulfillment centers and distribution centers</p>
 			 .end().filter("[href='#"+id+"']").parent().addClass("active");
 	   }                   
 	});
-
-	
 	
 	$(document).ready(function () {
 		 $('#sidebarCollapse').on('click', function () {
