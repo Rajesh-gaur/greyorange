@@ -35,9 +35,12 @@
 			  </ol>
 			</nav>
 		</div>
-		
-	    <img src="images/ecommerce-fulfillment-banner.jpg" alt="Vertical E-commerce Fulfillment-banner" class="img-fluid"/>
-		
+	  </div>
+	  
+		<div class="banner-image">	
+	      <img src="images/ecommerce-fulfillment-banner.jpg" alt="Vertical E-commerce Fulfillment-banner" class="img-fluid"/>
+		</div>
+	<div class="container">	
 		<div class="join">
 			<div class="col-md-12 col-sm-12">
 			  <div class="row">

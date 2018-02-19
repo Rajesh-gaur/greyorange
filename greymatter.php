@@ -34,8 +34,11 @@
 			  </ol>
 			</nav>
 		</div>
-	     <img src="images/greymetter-banner.jpg" alt="sorter" class="img-fluid"/>
 	  </div><!--container-->
+	     <div class="banner-image">
+		    <img src="images/greymetter-banner.jpg" alt="sorter"/>
+		 </div>	
+	 
 	</section><!--inner-banner greymetter-block-->
 	 
  

@@ -35,9 +35,11 @@
 			  </ol>
 			</nav>
 		</div>
+	</div>
 		
-	    <img src="images/parcel-sortation.jpg" alt="parcel" class="img-fluid"/>
-		
+	 <div class="banner-image">	
+	    <img src="images/parcel-sortation.jpg" alt="parcel"/>
+	 <div class="container">	
 		<div class="join">
 			<div class="col-md-12 col-sm-12">
 			  <div class="row">

@@ -85,14 +85,13 @@
 	  
 	  <div class="col-sm-6">	
 	     <ul class="footer-links">
-		   <li><a href="#">Solutions</a></li> 
 		   <li><a href="#">Support</a></li> 
 		   <li><a href="contact.php">Contact us</a></li> 
-		   <li><a href="#">About us</a></li> 
-		   <li><a href="#">Press</a></li> 
+		   <li><a href="about-company.php">About us</a></li> 
+		   <li><a href="media.php">Press</a></li> 
 		   <li><a href="events.php">Events</a></li> 
 		   <li><a href="locate-partner.php">Partners</a></li> 
-		   <li><a href="#">Careers</a></li> 
+		   <li><a href="career.php">Careers</a></li> 
 		   <li><a href="case.php">Case Study</a></li> 
 		 </ul>
       </div>  

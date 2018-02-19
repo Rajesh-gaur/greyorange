@@ -33,15 +33,21 @@
 				<li class="breadcrumb-item active" aria-current="page">Sorter Solution</li>
 			  </ol>
 			</nav>
+		  </div>
 		</div>
-	     <img src="images/sorter-banner.jpg" alt="sorter" class="img-fluid"/>
-		 
-		    <div class="butler-short-desc">
+	    <div class="banner-image">  
+		 <img src="images/sorter-banner.jpg" alt="sorter"/>
+		</div> 
+		 <div class="container">
+		    <div class="butler-short-desc"><br/>
 			  <p>Challenges such as increasing costs, high order volumes, manpower issues, shorter order processing window & scope for 
-			  zero-error have led to the adoption of automation solutions to overcome any operational inefficiencies in distribution or fulfillment centers. </p>
+			  zero-error have led to the adoption of automation solutions to overcome any operational inefficiencies in distribution or fulfillment centers. 
+			  </p><br/>
 			</div> 
-			
+		 </div>	
+		 
 		 <div class="butler-intro sorter-intro col-sm-12">
+		  <div class="container">
 		  <div class="row">
 		    <div class="col-md-6 col-sm-12">
   		      <h3>GreyOrange Sorter</h3>
@@ -163,18 +169,18 @@
 	<div class="workforce">
 	  <div class="container">	 
 	    <h2>Sorter Variants</h2>
-		 <ul class="nav nav-tabs" id="myTab" role="tablist">
+		 <ul class="nav nav-tabs" role="tablist">
 		  <li class="nav-item">  	    	
-			<a class="nav-link active" data-toggle="tab" href="#series1st" role="tab" aria-controls="series1st">Series 6000</a>
+			<a class="nav-link active" data-toggle="tab" href="#series1st" role="tab" aria-controls="series1st">Series 3000 Expandable</a>
 		  </li>
 		  <li class="nav-item">	
 			<a class="nav-link" data-toggle="tab" href="#series2nd" role="tab" aria-controls="series2nd">Series 3000</a>
 		  </li>
 		  <li class="nav-item">
-			<a class="nav-link" data-toggle="tab" href="#expandable" role="tab" aria-controls="expandable">Series 3000 Expandable</a>
+			<a class="nav-link" data-toggle="tab" href="#expandable" role="tab" aria-controls="expandable">Series 1500</a>
 		  </li>
 		  <li class="nav-item">
-			<a class="nav-link " data-toggle="tab" href="#series4th" role="tab" aria-controls="series4th">Series 1500</a>
+			<a class="nav-link " data-toggle="tab" href="#series4th" role="tab" aria-controls="series4th">PPTL Sort</a>
 		  </li>
 		</ul>
 	   </div>
@@ -186,11 +192,12 @@
 	  <div class="butler-blocks">  
 	    <div class="row">
 		 <div class="col-sm-12 col-md-5"><img src="images/sorter-img.jpg" alt="" class="img-fluid" /></div>
-		 <div class="col-sm-12 col-md-7">
-		   <h3>Series 6000</h3>
+		 <div class="col-sm-12 col-md-7"><br/>
+		   <h3>Series 3000 Expandable</h3>
 			<ul>
-			   <li>AI-powered robot that navigates and brings racks to the operator</li>
-			   <li>Runs at up to 1.5 meters/sec</li>
+			   <li>Up to 3000 sorts per hour</li>
+			   <li>Install the upper deck first followed by lower deck as per need of scalability </li>			   
+			   <li>Allows independent control of each deck</li>
 			</ul>
 		 </div>
 	    </div><!--row-->	   
@@ -205,11 +212,12 @@
 		  
 			<div class="row">
 		 <div class="col-sm-12 col-md-5"><img src="images/sorter-img.jpg" alt="" class="img-fluid" /></div>
-		 <div class="col-sm-12 col-md-7">
+		 <div class="col-sm-12 col-md-7"><br/>
 		   <h3>Series 3000</h3>
 			<ul>
-			   <li>AI-powered robot that navigates and brings racks to the operator</li>
-			   <li>Runs at up to 1.5 meters/sec</li>
+			   <li>Up to 3000 sorts per hour</li>
+			   <li>Automated barcode scanning solution</li>
+			   <li>Modular build to scale sorting destinations in future</li>
 			</ul>
 		 </div>
 	    </div><!--row-->
@@ -219,15 +227,15 @@
 	  
 	  
 	  <div class="tab-pane" id="expandable" role="tabpanel">
-	      <div class="butler-blocks">  
-		  
-			<div class="row">
+	   <div class="butler-blocks"> 		  
+		<div class="row">
 		 <div class="col-sm-12 col-md-5"><img src="images/sorter-img.jpg" alt="" class="img-fluid" /></div>
-		 <div class="col-sm-12 col-md-7">
-		   <h3>Series 3000 Expandable</h3>
+		 <div class="col-sm-12 col-md-7"><br/>
+		   <h3>Series 1500</h3>
 			<ul>
-			   <li>AI-powered robot that navigates and brings racks to the operator</li>
-			   <li>Runs at up to 1.5 meters/sec</li>
+			   <li>Up to 1500 sorts per hour</li>
+			   <li>Manual barcode scanning solution</li>
+			   <li>Integrated dimensioning and weighing system</li>
 			</ul>
 		 </div>
 	    </div><!--row-->
@@ -240,11 +248,12 @@
 		  
 			<div class="row">
 			 <div class="col-sm-12 col-md-5"><img src="images/sorter-img.jpg" alt="" class="img-fluid" /></div>
-			 <div class="col-sm-12 col-md-7">
-			   <h3>Series 1500</h3>
+			 <div class="col-sm-12 col-md-7"><br/>
+			   <h3>PPTL Sort</h3>
 				<ul>
-				   <li>AI-powered robot that navigates and brings racks to the operator</li>
-				   <li>Runs at up to 1.5 meters/sec</li>
+				   <li>Up to 500 sorts per hour</li>
+				   <li>Minimal operator training</li>
+				   <li>Multi-operator sorting capability in single zone</li>
 				</ul>
 			 </div>
 			</div><!--row-->
@@ -253,10 +262,10 @@
 	  
 	  </div>
 	</div><!--tab-content-->
-     
+  </div>   
 	 
-	<div class="container bulter-img-pics">
-	  <div class="row">
+	<div class="container-fluid bulter-img-pics">
+	<div class="row">
 		<div class="col-sm-6">
 		  <div class="row"><img src="images/grey-metter-img.jpg" class="img-fluid" alt="" /></div>
 		</div>		
@@ -265,7 +274,7 @@
 		 </div>
 	  </div>	
 	</div><!--container bulter-img-pics-->	
-
+ 
 </section><!--workforce-block-->
 		
  <?php include('include/footer.php');?>

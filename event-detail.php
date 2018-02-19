@@ -34,24 +34,27 @@
 				<li class="breadcrumb-item active" aria-current="page">Indonesia Transport Supply Chain & Logistics</li>
 			  </ol>
 			</nav>
-		</div>
+		 </div>
+	   </div>
 		
-	    <img src="images/event-detail-banner.jpg" alt="case" class="img-fluid"/>
-		<span class="register-now"><br/><br/><a href="javascript:;"><img src="images/orange-shift.png" alt="" />Register</a></span>
-		<div class="join">
-			<div class="col-md-12 col-sm-12">
-			  <div class="row">
-				 <div class="offset-md-7 col-md-5 col-sm-12 info-block">		 
-					  <div class="join-us">
-						 <p><strong>Location:</strong> Booth B1, Jakarta International Expo,Kemayoran, Indonesia</p>
-						  <p><strong>Date:</strong> 28-30 October 2017</p>
-					  </div> 
-				</div> 
-			  </div>
-			</div>
-        </div>
-		
-	  </div>
+	    <div class="banner-image">	
+	     <img src="images/event-detail-banner.jpg" alt="case" class="img-fluid"/>
+	    </div>	
+		<div class="container">
+			<span class="register-now"><br/><br/><a href="javascript:;"><img src="images/orange-shift.png" alt="" />Register</a></span>
+			<div class="join">
+				<div class="col-md-12 col-sm-12">
+				  <div class="row">
+					 <div class="offset-md-7 col-md-5 col-sm-12 info-block">		 
+						  <div class="join-us">
+							 <p><strong>Location:</strong> Booth B1, Jakarta International Expo,Kemayoran, Indonesia</p>
+							  <p><strong>Date:</strong> 28-30 October 2017</p>
+						  </div> 
+					</div> 
+				  </div>
+				</div>
+			</div>	
+	    </div>
 	</section>
 
 

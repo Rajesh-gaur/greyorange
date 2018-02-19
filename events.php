@@ -33,8 +33,10 @@
 				<li class="breadcrumb-item active" aria-current="page">Events</li>
 			  </ol>
 			</nav>
-		</div>		
-	    <img src="images/event-banner.jpg" alt="case" class="img-fluid"/>
+		</div>	
+      </div>
+        <div class="banner-image">		
+	      <img src="images/event-banner.jpg" alt="case"/>		
 	  </div>
 	</section>
 
@@ -42,10 +44,8 @@
   <section id="case-study" class="case-study-section">
       <div class="container">
         <h2>Upcoming</h2>
-        <div class="row">
-        
+        <div class="row"> 		
 		
-		 <!--mobile image-end-->
           <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="event-section1">             
                <h3>Taipei Logistics, Booth J408</h3>
@@ -59,13 +59,11 @@
             </div>
           </div>
 		  
-		 <!--for desktop--> 
-          <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+		  <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
 		    <div class="event-img-section1"> 
   		     <img src="images/taipei.jpg" class="img-fluid" alt="">
 			</div> 
           </div>
-		 <!--desktop image-end--> 
 		  
 		  <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
 		    <div class="event-img-section2"> 

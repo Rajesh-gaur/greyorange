@@ -34,10 +34,12 @@
 			  </ol>
 			</nav>
 		</div>		
-	    <img src="images/case-study-banner.jpg" alt="case" class="img-fluid"/>
+	   
 	  </div>
 	</section>
-
+<div class="banner-image">
+ <img src="images/case-study-banner.jpg" alt="case"/>
+</div>
 
   <section id="case-study" class="case-study-section">
       <div class="container">

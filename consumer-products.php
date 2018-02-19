@@ -24,8 +24,7 @@
 
 	<section class="inner-banner">
 	  <div class="container">
-	   <div class="inner-head">
-	       
+	    <div class="inner-head">	       
 		   <nav aria-label="breadcrumb">
 		   <h1>Consumer Products</h1>
 			  <ol class="breadcrumb">
@@ -35,9 +34,11 @@
 			  </ol>
 			</nav>
 		</div>
-		
+	 </div>
+	<div class="banner-image">		
 	    <img src="images/use-case-banner.jpg" alt="Vertical E-commerce Fulfillment-banner" class="img-fluid"/>
-		
+	</div>	
+	  <div class="container">
 		<div class="join">
 			<div class="col-md-12 col-sm-12">
 			  <div class="row">

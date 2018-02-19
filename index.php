@@ -32,13 +32,25 @@
               <div class="carousel-content">
                 <h2>Enabling Fully Automated Supply Chain</h2>
                 <p>with intelligent order fulfillment systems</p> 
-                <a href="images/banner-1.jpg" data-lightbox="portfolio" data-title="video" class="link-preview btn-get-started " title="Preview">
-				Watch Video</a>
-              </div>
-            </div>
-          </div>  
-        </div>
+				
+				
+                <!--<a href="images/banner-1.jpg" data-lightbox="portfolio" data-title="video" class="link-preview btn-get-started " title="Preview">
+				Watch Video</a>-->		
+				
+				<a href="javascript:;" onClick="openPopup(this);" class="link-preview btn-get-started " >Watch Video</a>
+				<div id="video-home-box" class="popup-home" style="display:none;">
+				   <div class="watch-video col-sm-12 col-md-6 offset-md-3">
+					<div class="cancel" onclick="closePopup();">X</div>
+					<iframe width="100%" height="100%" src="https://www.youtube.com/embed/bnPn5qL1X5Q?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				   </div>
+				</div>	
+	        </div>
+		</div>
+	  </div>  
+	</div>	
+		
 		<div class="down-page"><a href="#about" class="scrollto"><img src="images/down-arrow.png" alt="next" /></a></div>
+		
       </div>
 	  
 	 <!--scroll-circle--> 
@@ -58,6 +70,7 @@
 
   
   
+
    <section id="about">
       <div class="container">
 
@@ -94,10 +107,10 @@ automation in warehouses, fulfillment centers and distribution centers</p>
 			<div class="carousel-item active">
 			  <img src="images/banner-1.jpg" alt="grey orange" class="img-fluid">
 			  <div class="carousel-caption">
-				<h2>Butler Fulfillment System</h2>
+				<h2>Sorter Fulfillment System</h2>
 				<h3>Flexible. Scalable. AI Driven.</h3>
 				<p>Goods-to-person System.</p>
-				<p>  <a href="butler.php" class="btn know-btn">Know More</a>	</p>
+				<p>  <a href="sorter.php" class="btn know-btn">Know More</a>	</p>
 			  </div>   
 			</div>
 			<div class="carousel-item">
@@ -121,7 +134,7 @@ automation in warehouses, fulfillment centers and distribution centers</p>
 		  <div class="container"><h1>The next-gen AI driven software platform</h1></div>
 		</div> 
 		  <div class="container text-center">  
-			<h3>Execution Engine | Core Operating Systgtem | Enterprise Integration Layer</h3>
+			<h3>Execution Engine | Core Operating Platform | Enterprise Integration Layer</h3>
 			<a class="cta-btn" href="#">Know More</a>
 		  </div>
 		</div>  
@@ -305,5 +318,18 @@ higher throughput order consolidation for vertical e-commerce.</a></span>
 </script>
 
 
+<script>
+function openPopup(elem) {
+   $(elem).next().fadeIn(200);
+   $(elem).next().siblings(".popup-home").hide();
+}
+
+
+function closePopup() {
+    $('.popup-home').fadeOut(300);
+}
+
+
+</script>
 </body>
 </html>

@@ -7,7 +7,12 @@
       </div>      
 	  <div class="head-menu">
 	    <ul>
-		   <li><a href="sorter.php">Products</a></li>
+		   <li><a href="sorter.php">Products</a>
+		     <ul class="menu-dropdown">
+			   <li><a href="butler.php">Butler</a></li>
+			   <li><a href="sorter.php">Sorter</a></li>
+			 </ul>		   
+		   </li>
 		   <li><a href="#">Support</a></li>
 		   <li><a href="contact.php">Contact Us</a></li>
 		</ul>
@@ -25,26 +30,25 @@
 			  <div class="menu-block">	
                 <ul class="list-unstyled components">
 				   		   
-				   <li> <a href="#">About</a></li>
-                    <li class="">
+				   <li> <a href="#about-submenu" data-toggle="collapse" aria-expanded="false">About</a>
+				      <ul class="collapse list-unstyled" id="about-submenu">
+                            <li><a href="our-team.php">Our Team</a></li>
+                            <li><a href="about-company.php">Company</a></li>
+                            <li><a href="media.php">New Room</a></li>
+                        </ul>
+				   </li>
+				   
+                    <li>
                         <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false">Press</a>
                         <ul class="collapse list-unstyled" id="homeSubmenu">
                             <li><a href="#">Press Release</a></li>
                             <li><a href="#">News</a></li>
-                            <li><a href="#">Media Kit</a></li>
+                            <li><a href="media.php">Media Kit</a></li>
                         </ul>
                     </li>
-                    <li>
-                     
-                        <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false">Events</a>
-                        <ul class="collapse list-unstyled" id="pageSubmenu">
-                            <li><a href="#">Events 1</a></li>
-                            <li><a href="#">Events 2</a></li>
-                            <li><a href="#">Events 3</a></li>
-                        </ul>
-                    </li>
+                    <li><a href="events.php">Events</a></li>
                     <li><a href="locate-partner.php">Partners</a></li>
-                    <li><a href="#">Careers</a></li>
+                    <li><a href="career.php">Careers</a></li>
                     <li>
                         <a href="case.php">Case Study</a>
                     </li>

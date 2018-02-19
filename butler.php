@@ -34,15 +34,20 @@
 			  </ol>
 			</nav>
 		</div>
-	     <img src="images/butler.jpg" alt="butler" class="img-fluid"/>
-		 
-		    <div class="butler-short-desc">
+		</div>
+		<div class="banner-image">
+	     <img src="images/butler_banner.jpg" alt="butler"/>
+		</div>
+        <div class="container">		
+		    <div class="butler-short-desc"><br/>
 			  <p>Reducing order fulfillment, inventory replenishment time, 
 			  and ability to quickly adapt to changing business environments in warehouses is imperative for businesses today to gain 
-			  a competitive advantage. </p>
+			  a competitive advantage. </p><br/>
 			</div> 
-			
-		 <div class="butler-intro col-sm-12">
+		</div>
+		
+		 <div class="butler-intro">
+		  <div class="container">	
 		  <div class="row">
 		    <div class="col-md-6 col-sm-12">
   		      <h3>Introducing GreyOrange Butler</h3>
@@ -59,6 +64,7 @@
 			</div>
 			
 	     </div>
+	    </div>
 	    </div>
 		 
 		 
@@ -153,7 +159,7 @@
 	  <div class="container">
 	 
 	   <h2>The Workforce</h2>
-		 <ul class="nav nav-tabs" id="myTab" role="tablist">
+		 <ul class="nav nav-tabs" role="tablist">
 		  <li class="nav-item">
 			<a class="nav-link active" data-toggle="tab" href="#butler" role="tab" aria-controls="butler">Butler</a>
 		  </li>
@@ -295,7 +301,10 @@
 	 <p class="text-center">Rotatable Lift ensures efficient storage and reduced aisle space thereby improving the overall Butler system throughput.</p>
  
       <hr/>
-      <div class="butler-intro col-sm-12">
+	 </div><!--container-->
+	 
+      <div class="butler-intro">
+	    <div class="container">
 		  <div class="row">
 		    <div class="col-md-6 col-sm-12">
   		      <h3>Introducing GreyOrange Butler</h3>
@@ -311,11 +320,12 @@
 			  </div>
 			</div>
 			
+	      </div>
 	     </div>
 	    </div>
-	 </div><!--container-->
+	
 	 
-	<div class="container bulter-img-pics">
+	<div class="container-fluid bulter-img-pics">
 	<div class="row">
 		<div class="col-md-6 col-sm-12">
 		  <div class="row">

@@ -34,10 +34,12 @@
 				<li class="breadcrumb-item active" aria-current="page">Order Consolidation</li>
 			  </ol>
 			</nav>
+		  </div>
 		</div>
-		
-	    <img src="images/parcel-sortation-banner.jpg" alt="parcel-sortation" class="img-fluid"/>
-		
+	    <div class="banner-image">		 
+	      <img src="images/parcel-sortation-banner.jpg" alt="parcel-sortation"/>
+		</div>	
+        <div class="container">		
 		<div class="join">
 			<div class="col-md-12 col-sm-12">
 			  <div class="row">

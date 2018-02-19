@@ -34,9 +34,11 @@
 			  </ol>
 			</nav>
 		</div>
-		
-	    <img src="images/locate-partner-banner.jpg" alt="Locate Partner" class="img-fluid"/>		
-	  </div>
+	  </div>		
+	    <div class="banner-image">			
+	      <img src="images/locate-partner-banner.jpg" alt="Locate Partner"/>			
+	    </div>
+
 	</section>
 
 

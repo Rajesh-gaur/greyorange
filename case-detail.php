@@ -34,9 +34,13 @@
 				<li class="breadcrumb-item active" aria-current="page">Omni Channel</li>
 			  </ol>
 			</nav>
+		  </div>
 		</div>
 		
-	    <img src="images/case-detail-banner.jpg" alt="case" class="img-fluid"/>
+	    <div class="banner-image">
+   	     <img src="images/case-detail-banner.jpg" alt="case"/>
+		</div>
+		<div class="container">
 		
 		<div class="join">
 			<div class="col-md-12 col-sm-12">
@@ -74,7 +78,7 @@ Higher number of SKUs</li>
 	  </div>
 	  <div class="case-solve col-md-6 col-sm-12">
 	     <ul class="list-group">
-		  <li class="list-group-item active case-solution">Soluiton we provide?</li>
+		  <li class="list-group-item active case-solution">Solutions we provide?</li>
 		  <li class="list-group-item">Unified order picking and
 consolidation model
 Reduced dock to stock time
