@@ -14,7 +14,6 @@
   <link href="lib/animate/animate.min.css" rel="stylesheet">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
   <link href="css/style.css" rel="stylesheet">
 
 </head>
@@ -27,17 +26,20 @@
 	   <div class="inner-head">
 	       
 		   <nav aria-label="breadcrumb">
-		   <h1>Sorter Solution</h1>
+		   <h1>Sorter</h1>
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-				<li class="breadcrumb-item active" aria-current="page">Sorter Solution</li>
+				<li class="breadcrumb-item active" aria-current="page">Sorter</li>
 			  </ol>
 			</nav>
 		  </div>
 		</div>
+	
 	    <div class="banner-image">  
 		 <img src="images/sorter-banner.jpg" alt="sorter"/>
-		</div> 
+		</div>
+		
+		
 		 <div class="container">
 		    <div class="butler-short-desc"><br/>
 			  <p>Challenges such as increasing costs, high order volumes, manpower issues, shorter order processing window & scope for 
@@ -171,7 +173,10 @@
 	    <h2>Sorter Variants</h2>
 		 <ul class="nav nav-tabs" role="tablist">
 		  <li class="nav-item">  	    	
-			<a class="nav-link active" data-toggle="tab" href="#series1st" role="tab" aria-controls="series1st">Series 3000 Expandable</a>
+			<a class="nav-link active" data-toggle="tab" href="#series600" role="tab" aria-controls="series600">Series 6000</a>
+		  </li>
+		  <li class="nav-item">  	    	
+			<a class="nav-link" data-toggle="tab" href="#series1st" role="tab" aria-controls="series1st">Series 3000 Expandable</a>
 		  </li>
 		  <li class="nav-item">	
 			<a class="nav-link" data-toggle="tab" href="#series2nd" role="tab" aria-controls="series2nd">Series 3000</a>
@@ -188,10 +193,26 @@
 	 
   <div class="container">	  
 	<div class="tab-content">	
-	<div class="tab-pane active" id="series1st" role="tabpanel">
+	<div class="tab-pane active" id="series600" role="tabpanel">
 	  <div class="butler-blocks">  
 	    <div class="row">
-		 <div class="col-sm-12 col-md-5"><img src="images/sorter-img.jpg" alt="" class="img-fluid" /></div>
+		 <div class="col-sm-12 col-md-5"><img src="images/series-6000.jpg" alt="" class="img-fluid" /></div>
+		 <div class="col-sm-12 col-md-7"><br/>
+		   <h3>Series 6000</h3>
+			<ul>
+			   <li>Up to 6000 sorts per hour</li>
+			   <li>High redundancy thus high uptime </li>		
+			</ul>
+		 </div>
+	    </div><!--row-->	   
+		
+	   </div><!--butler-blocks-->	   
+	  </div><!--#home-->
+	  
+	  <div class="tab-pane" id="series1st" role="tabpanel">
+	  <div class="butler-blocks">  
+	    <div class="row">
+		 <div class="col-sm-12 col-md-5"><img src="images/series-3000-extension.jpg" alt="" class="img-fluid" /></div>
 		 <div class="col-sm-12 col-md-7"><br/>
 		   <h3>Series 3000 Expandable</h3>
 			<ul>
@@ -211,7 +232,7 @@
 		  <div class="butler-blocks">  
 		  
 			<div class="row">
-		 <div class="col-sm-12 col-md-5"><img src="images/sorter-img.jpg" alt="" class="img-fluid" /></div>
+		 <div class="col-sm-12 col-md-5"><img src="images/series-3000.jpg" alt="" class="img-fluid" /></div>
 		 <div class="col-sm-12 col-md-7"><br/>
 		   <h3>Series 3000</h3>
 			<ul>
@@ -229,7 +250,7 @@
 	  <div class="tab-pane" id="expandable" role="tabpanel">
 	   <div class="butler-blocks"> 		  
 		<div class="row">
-		 <div class="col-sm-12 col-md-5"><img src="images/sorter-img.jpg" alt="" class="img-fluid" /></div>
+		 <div class="col-sm-12 col-md-5"><img src="images/series-1500.jpg" alt="" class="img-fluid" /></div>
 		 <div class="col-sm-12 col-md-7"><br/>
 		   <h3>Series 1500</h3>
 			<ul>
@@ -247,7 +268,7 @@
 	      <div class="butler-blocks">  
 		  
 			<div class="row">
-			 <div class="col-sm-12 col-md-5"><img src="images/sorter-img.jpg" alt="" class="img-fluid" /></div>
+			 <div class="col-sm-12 col-md-5"><img src="images/pptl.jpg" alt="" class="img-fluid" /></div>
 			 <div class="col-sm-12 col-md-7"><br/>
 			   <h3>PPTL Sort</h3>
 				<ul>
@@ -264,7 +285,7 @@
 	</div><!--tab-content-->
   </div>   
 	 
-	<div class="container-fluid bulter-img-pics">
+	<div class="container bulter-img-pics">
 	<div class="row">
 		<div class="col-sm-6">
 		  <div class="row"><img src="images/grey-metter-img.jpg" class="img-fluid" alt="" /></div>
@@ -291,7 +312,6 @@
   <script src="lib/counterup/counterup.min.js"></script>
   <script src="lib/owlcarousel/owl.carousel.min.js"></script>
   <script src="lib/isotope/isotope.pkgd.min.js"></script>
-  <script src="lib/lightbox/js/lightbox.min.js"></script>
   <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
 
   <script src="js/main.js"></script>

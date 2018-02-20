@@ -107,19 +107,19 @@ automation in warehouses, fulfillment centers and distribution centers</p>
 			<div class="carousel-item active">
 			  <img src="images/banner-1.jpg" alt="grey orange" class="img-fluid">
 			  <div class="carousel-caption">
-				<h2>Sorter Fulfillment System</h2>
-				<h3>Flexible. Scalable. AI Driven.</h3>
-				<p>Goods-to-person System.</p>
-				<p>  <a href="sorter.php" class="btn know-btn">Know More</a>	</p>
+				<h2>Butler</h2>
+				<h3>Decision Science Driven</h3>
+				<p>Goods-to-Person system</p>
+				<p>  <a href="butler.php" class="btn know-btn">Know More</a>	</p>
 			  </div>   
 			</div>
 			<div class="carousel-item">
 			  <img src="images/banner-2.jpg" alt="grey orange" class="img-fluid">
 			  <div class="carousel-caption">
-				<h2>Butler Fulfillment System</h2>
-				<h3>Flexible. Scalable. AI Driven.</h3>
-				<p>Goods-to-person System.</p>
-				<p>  <a href="butler.php" class="btn know-btn">Know More</a>	</p>
+				<h2>Sorter</h2>
+				<h3>Need-Based and Cost Optimized</h3>
+				<p>Sortation Product</p>
+				<p>  <a href="sorter.php" class="btn know-btn">Know More</a>	</p>
 			  </div>     
 			</div>
 		  </div>
@@ -134,13 +134,13 @@ automation in warehouses, fulfillment centers and distribution centers</p>
 		  <div class="container"><h1>The next-gen AI driven software platform</h1></div>
 		</div> 
 		  <div class="container text-center">  
-			<h3>Execution Engine | Core Operating Platform | Enterprise Integration Layer</h3>
+			<h3>Industry Engine | Core Operating Platform | Execution Engine</h3>
 			<a class="cta-btn" href="#">Know More</a>
 		  </div>
 		</div>  
 	</section><!--#greymetter-->
 
-
+ 
 
   <section id="case-study">
       <div class="container">
@@ -329,7 +329,12 @@ function closePopup() {
     $('.popup-home').fadeOut(300);
 }
 
-
+	$('.btn-get-started').click(function(){
+	  $('.down-page').hide();	
+	});
+	$('#video-home-box .cancel').click(function(){
+		 $('.down-page').show();		
+	});
 </script>
 </body>
 </html>

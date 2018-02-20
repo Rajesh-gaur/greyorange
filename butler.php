@@ -27,10 +27,10 @@
 	   <div class="inner-head">
 	       
 		   <nav aria-label="breadcrumb">
-		   <h1>Butler Fulfillment Solution</h1>
+		   <h1>Butler</h1>
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-				<li class="breadcrumb-item active" aria-current="page">Butler Fulfillment Solution</li>
+				<li class="breadcrumb-item active" aria-current="page">Butler</li>
 			  </ol>
 			</nav>
 		</div>
@@ -183,23 +183,24 @@
 	  <div class="butler-blocks">  
 	  
 	    <div class="bulter-article">
-		 <div class="butler-tab-img"><img src="images/butler-img-1.jpg" alt="" /></div>
+		 <div class="butler-tab-img"><img src="images/butler-robot-m.jpg" alt="" class="img-fluid" /></div>
 		 <div class="butler-tab-desc">
 		   <h3>The Butler Robot: M</h3>
 			<ul>
-			   <li>AI-powered robot that navigates and brings racks to the operator</li>
-			   <li>Runs at up to 1.5 meters/sec</li>
+			   <li>Multi-floor operations</li>
+			   <li>Payload : 500 kgs</li>
 			</ul>
 		 </div>
 	    </div><!--bulter-article-->
 		
 	    <div class="bulter-article">
-		 <div class="butler-tab-img"><img src="images/butler-img-1.jpg" alt="" /></div>
+		 <div class="butler-tab-img"><img src="images/butler-robot.jpg" alt="" class="img-fluid" /></div>
 		 <div class="butler-tab-desc">
 		 <h3>The Butler Robot: M</h3>
 			<ul>
-			   <li>MSUA I-powered robot that navigates and brings racks to the operator</li>
-			   <li>Runs at up to 1.5 meters/sec</li>
+			   <li>Multi-floor operations</li>
+			   <li>Payload : 600 kgs</li>
+			   <li>Payload type : Pallets, Drums,Sacks, Cartons  </li>
 			</ul>
 		 </div>
 	    </div><!--bulter-article-->
@@ -211,28 +212,17 @@
 	  
 	  <div class="tab-pane  butler-blocks" id="MSU" role="tabpanel">
 		  <div class="butler-blocks">  
-		  
-			<div class="bulter-article">
-			 <div class="butler-tab-img"><img src="images/butler-img-1.jpg" alt="" /></div>
-			 <div class="butler-tab-desc">
-			 <h3>The Butler Robot: M</h3>
+		  <div class="row">
+			 <div class="col-sm-12 col-md-5"><img src="images/msu.jpg" alt="" class="img-fluid"  /></div>
+			 <div class="col-sm-12 col-md-7"><br/>
+			  <h3>Mobile Storage Units (MSU)</h3>
 				<ul>
-				   <li>MSU  -powered robot that navigates and brings racks to the operator</li>
-				   <li>Runs at up to 1.5 meters/sec</li>
+				   <li>Store big and small cases, indivisible items , pallets and much more. </li>
+				   <li>Ability to reconfigure when inventory characteristics change over time.</li>
+				   <li>Variants : Hangers for apparel, bins for auto - spare parts and pallet barrel drums for manufacturing. </li>
 				</ul>
 			 </div>
-			</div><!--bulter-article-->
-			
-			<div class="bulter-article">
-			 <div class="butler-tab-img"><img src="images/butler-img-2.jpg" alt="" /></div>
-			 <div class="butler-tab-desc">
-			 <h3>The Butler Robot: M</h3>
-				<ul>
-				   <li>AI-powered robot that navigates and brings racks to the operator</li>
-				   <li>Runs at up to 1.5 meters/sec</li>
-				</ul>
-			 </div>
-			</div><!--bulter-article-->
+			</div><!--row-->		
 			
 		   </div><!--butler-blocks-->
 	  </div>
@@ -241,27 +231,17 @@
 	  <div class="tab-pane" id="PPS" role="tabpanel">
 	      <div class="butler-blocks">  
 		  
-			<div class="bulter-article">
-			 <div class="butler-tab-img"><img src="images/butler-img-1.jpg" alt="" /></div>
-			 <div class="butler-tab-desc">
-			 <h3>The Butler Robot: M</h3>
+			<div class="row">
+			 <div class="col-sm-12 col-md-5"><img src="images/pps.jpg" alt="" class="img-fluid"  /></div>
+			 <div class="col-sm-12 col-md-7"><br/>
+			  <h3>Pick Put Stations(PPS)</h3>
 				<ul>
-				   <li>11111AI-powered robot that navigates and brings racks to the operator</li>
-				   <li>Runs at up to 1.5 meters/sec</li>
+				   <li>Multipurpose workstation with multi-lingual user interface for guided pick, pathway, audit and returns operations.</li>
+				   <li>Enables operator to fulfill up to 48 orders simultaneously .</li>
+				   <li>Variants : Supports various configurations including pallet handling, put from to conveyor and roll cages.  </li>
 				</ul>
 			 </div>
-			</div><!--bulter-article-->
-			
-			<div class="bulter-article">
-			 <div class="butler-tab-img"><img src="images/butler-img-2.jpg" alt="" /></div>
-			 <div class="butler-tab-desc">
-			 <h3>The Butler Robot: M</h3>
-				<ul>
-				   <li>AI-powered robot that navigates and brings racks to the operator</li>
-				   <li>Runs at up to 1.5 meters/sec</li>
-				</ul>
-			 </div>
-			</div><!--bulter-article-->
+			</div><!--row-->
 			
 		   </div><!--butler-blocks-->
 	  
@@ -269,34 +249,24 @@
 	  <div class="tab-pane" id="charging" role="tabpanel">
 	      <div class="butler-blocks">  
 		  
-			<div class="bulter-article">
-			 <div class="butler-tab-img"><img src="images/butler-img-1.jpg" alt="" /></div>
-			 <div class="butler-tab-desc">
-			 <h3>The Butler Robot: M</h3>
+			<div class="row">
+			 <div class="col-sm-12 col-md-5"><img src="images/smart-charging-station.jpg" alt="" class="img-fluid" /></div>
+			 <div class="col-sm-12 col-md-7"><br/>
+			  <h3>Smart Charging station</h3>
 				<ul>
-				   <li>Chagring -powered robot that navigates and brings racks to the operator</li>
-				   <li>Runs at up to 1.5 meters/sec</li>
+				   <li>Intelligent charging algorithm that enables opportunity charging.</li>
+				   <li>A full charge of 30 minutes ensures up to 8 hours of operations, while a quick charge of 5 minutes ensures 5 hours of operations.</li>
+				   <li>Variants : Supports various configurations including pallet handling, put from to conveyor and roll cages.  </li>
 				</ul>
 			 </div>
-			</div><!--bulter-article-->
-			
-			<div class="bulter-article">
-			 <div class="butler-tab-img"><img src="images/butler-img-2.jpg" alt="" /></div>
-			 <div class="butler-tab-desc">
-			 <h3>The Butler Robot: M</h3>
-				<ul>
-				   <li>AI-powered robot that navigates and brings racks to the operator</li>
-				   <li>Runs at up to 1.5 meters/sec</li>
-				</ul>
-			 </div>
-			</div><!--bulter-article-->
+			</div><!--row-->
 			
 		   </div><!--butler-blocks-->
 	  
 	  </div>
 	</div><!--tab-content-->
 	
-	
+	 <br/>
 	 <p class="text-center">Sync Move ensures higher butler productivity and reduces operator wait time .</p>
 	 <p class="text-center">Rotatable Lift ensures efficient storage and reduced aisle space thereby improving the overall Butler system throughput.</p>
  
@@ -325,7 +295,7 @@
 	    </div>
 	
 	 
-	<div class="container-fluid bulter-img-pics">
+	<div class="container bulter-img-pics">
 	<div class="row">
 		<div class="col-md-6 col-sm-12">
 		  <div class="row">

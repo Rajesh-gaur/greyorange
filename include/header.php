@@ -49,9 +49,8 @@
                     <li><a href="events.php">Events</a></li>
                     <li><a href="locate-partner.php">Partners</a></li>
                     <li><a href="career.php">Careers</a></li>
-                    <li>
-                        <a href="case.php">Case Study</a>
-                    </li>
+                    <li><a href="case.php">Case Study</a></li>
+                    <li><a href="pick-to-ship.php">Pick To Ship</a></li>
                 </ul>
              </div>
                 

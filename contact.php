@@ -104,23 +104,42 @@
 		<div id="location" class="tab-pane fade">
 		
 		    <ul class="nav nav-tabs location-tabs" role="tablist">
-				<li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#singapore">Singapore</a></li>
-				<li class="nav-item"><a class="nav-link" data-toggle="tab" href="#hongkong">Hong Kong</a></li>
-				<li class="nav-item"><a class="nav-link" data-toggle="tab" href="#india">India</a></li>
+			    <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#india">India</a></li>
+				<li class="nav-item"><a class="nav-link" data-toggle="tab" href="#singapore">Singapore</a></li>				
 				<li class="nav-item"><a class="nav-link" data-toggle="tab" href="#japan">Japan</a></li>
 				<li class="nav-item"><a class="nav-link" data-toggle="tab" href="#germany">Germany</a></li>
-				<li class="nav-item"><a class="nav-link" data-toggle="tab" href="#dubai">Dubai</a></li>
 				
 				
 			</ul>
 			  
 			  <div class="tab-content">
-		         <div id="singapore" class="tab-pane active">
+			  <div id="india" class="tab-pane active">				 
+				     <div class="row">
+						 <div class="col-md-3 col-sm-6 country-details"><br/>
+							 <address>
+						       <p>Address</p>
+							   <p><strong>Orient Bestech Business Tower, 2nd Floor, NH8, Block A, Sector 34, Block A, Gurugram,
+							   Haryana 122004 </strong></p>
+						     </address>
+							 
+							  <address>
+						    <p>Email Id</p>
+							<p><strong><a href="mailto:sales@greyorange.com">sales@greyorange.com</a></strong></p>
+						   </address> 
+						 </div>
+						 <div class="col-md-9 col-sm-6">
+						  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3508.6544865336505!2d77.00404306498372!3d28.429680699983887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d17f3b668646f%3A0x6d1717d071e82a13!2sGrey+Orange+India!5e0!3m2!1sen!2sin!4v1519109814061" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen>
+						  </iframe>
+						 </div>
+					   </div> 
+				 </div>
+			  
+		         <div id="singapore" class="tab-pane">
 				   <div class="row">
 				     <div class="col-md-3 col-sm-6 country-details"><br/>
 					     <address>
 						    <p>Address</p>
-							<p><strong>25 Kallang Avenue <br/> #05-05, Singapore <br/> 339416</strong></p>
+							<p><strong>25 Kallang Avenue<br/> #05-05, Singapore 339416</strong></p>
 						 </address>
 						 
 						 <address>
@@ -129,55 +148,33 @@
 						 </address> 
 						 
 						 <address>
-						    <p>Direction</p>
-							<p><strong>Google Map</strong></p>
+						    <p>Email Id</p>
+							<p><strong><a href="mailto:apac@greyorange.com">apac@greyorange.com</a></strong></p>
 						 </address>
 						 
 					 </div>
 				     <div class="col-md-9 col-sm-6">
-					   <img src="images/map.jpg" alt="" class="img-fluid"/>
+					  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d592.9348420460867!2d103.86582868299092!3d1.3107873768358105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19cb1158a747%3A0xb1b0bd52b31f74f4!2s25+Kallang+Ave%2C+Singapore+339416!5e0!3m2!1sen!2sin!4v1519109910336" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen>
+					  </iframe>
 					 </div>
 				   </div> 
 				 </div><!--#singapore-->
 				 
-		         <div id="hongkong" class="tab-pane ">
-				     <div class="row">
-						 <div class="col-md-3 col-sm-6 country-details"><br/>
-							 <address>
-								<p>Coming Soon</p>
-							 </address>							 
-						 </div>
-						 <div class="col-md-9 col-sm-6">
-						   <img src="images/map.jpg" alt="" class="img-fluid"/>
-						 </div>
-					   </div> 
-				 </div>
-				 
-		         <div id="india" class="tab-pane ">
-				 
-				     <div class="row">
-						 <div class="col-md-3 col-sm-6 country-details"><br/>
-							 <address>
-								<p>Coming Soon</p>
-							 </address>
-							 
-						 </div>
-						 <div class="col-md-9 col-sm-6">
-						   <img src="images/map.jpg" alt="" class="img-fluid"/>
-						 </div>
-					   </div> 
-				 </div>
+		         
+		         
 				 
 		         <div id="japan" class="tab-pane ">
 				 
 				     <div class="row">
 						 <div class="col-md-3 col-sm-6 country-details"><br/>
 							 <address>
-								<p>Coming Soon</p>
+								<p>Address</p>
+								<p><strong>3F The SOHO, 2-7-4 Aomi Koto-ku, Tokyo 135-0064 Japan</strong></p>
 							 </address>	
 						 </div>
 						 <div class="col-md-9 col-sm-6">
-						   <img src="images/map.jpg" alt="" class="img-fluid"/>
+						  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d573.3575155287674!2d139.77500403067918!3d35.61786682375693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601889ffac21ca29%3A0x9a2bbabe0f145d9b!2zSmFwYW4sIOOAkjEzNS0wMDY0IFTFjWt5xY0tdG8sIEvFjXTFjS1rdSwgQW9taSwgMiBDaG9tZeKIkjfiiJI0LCDvvZTvvYjvvYXvvLPvvK_vvKjvvK8!5e0!3m2!1sen!2sin!4v1519109980520" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen>
+						  </iframe>
 						 </div>
 					   </div> 				 
 				 
@@ -188,31 +185,18 @@
 					     <div class="row">
 						 <div class="col-md-3 col-sm-6 country-details"><br/>
 							 <address>
-								<p>Coming Soon</p>
+								<p>Address</p>
+								<p><strong>Zeißstraße 14, 30519 Hannover</strong></p>
 							 </address>
 						 </div>
 						 <div class="col-md-9 col-sm-6">
-						   <img src="images/map.jpg" alt="" class="img-fluid"/>
+						   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2437.482125927764!2d9.766499215640891!3d52.34354045704408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b00b2025f468d3%3A0x11892db397f2fc2b!2sZei%C3%9Fstra%C3%9Fe+14%2C+30519+Hannover%2C+Germany!5e0!3m2!1sen!2sin!4v1519110039952" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 						 </div>
 					   </div> 			 
 				 
 				 </div>
 				 
-		         <div id="dubai" class="tab-pane "> 
-				 
-				     <div class="row">
-						 <div class="col-md-3 col-sm-6 country-details"><br/>
-							 <address>
-								<p>Coming Soon</p>
-							 </address>
-						 </div>
-						 <div class="col-md-9 col-sm-6">
-						   <img src="images/map.jpg" alt="" class="img-fluid"/>
-						 </div>
-					   </div> 				 
-				 </div>
-				 
-				 
+		         
 		     </div> <!--tab-content-->
 			  
 		

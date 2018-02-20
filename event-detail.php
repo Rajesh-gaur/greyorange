@@ -58,7 +58,7 @@
 	</section>
 
 
- <section class="case-product-desc">
+ <section class="case-product-desc event-description">
     <div class="container">
 	
      <div class="text-center">

@@ -87,20 +87,20 @@
 	
 	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-md-3 col-sm-12"><img src="images/growth.png" alt="ENHANCES BUSINESS AGILITY AND GROWTH" class="img-fluid" /></div>
+	      <div class="col-md-3 col-sm-12"><img src="images/effect.png" alt="Efficiency" class="img-fluid" /></div>
 		  <div class="col-md-9 col-sm-12">
-			<h4>ENHANCES BUSINESS AGILITY AND GROWTH</h4>
-			<p>Adapts to changing inventory profiles, demand patterns and peaks</p>
+			<h4>Efficiency </h4>
+			<p>Increases the order picking efficiency manifolds.</p>
 		  </div>					   
         </div>
     </div>
 	
 	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-md-3 col-sm-12"><img src="images/lower-cost.png" alt="LOWER OPERATING COSTS" class="img-fluid" /></div>
+	      <div class="col-md-3 col-sm-12"><img src="images/accuracy.png" alt="Accuracy" class="img-fluid" /></div>
 		  <div class="col-md-9 col-sm-12">
-	        <h4>LOWER OPERATING COSTS</h4>
-	        <p>Operator time saving by up to 70%</p>	 
+	        <h4>Accuracy</h4>
+	        <p>Ensures avoidance of errors while continuously sorting thousands of packets.</p>	 
 		  </div>					   
         </div>
     </div>
@@ -109,40 +109,40 @@
 	
 	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-md-3 col-sm-12"><img src="images/eliminate.png" alt="ELIMINATE COMPLEXITY" class="img-fluid" /></div>
+	      <div class="col-md-3 col-sm-12"><img src="images/lead-time_icons.png" alt="Integration" class="img-fluid" /></div>
 		  <div class="col-md-9 col-sm-12">
-			 <h4>ELIMINATE COMPLEXITY</h4>
-			 <p>Reduces waste, increases efficiency </p>	 
+			 <h4>Integration</h4>
+			 <p>Integrates with most popular or proprietary enterprise systems.</p>	 
 		  </div>					   
         </div>
     </div>
 	
 	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-md-3 col-sm-12"><img src="images/business.png" alt="BUSINESS CONTINUITY" class="img-fluid" /></div>
+	      <div class="col-md-3 col-sm-12"><img src="images/flexible.png" alt="Flexible" class="img-fluid" /></div>
 		  <div class="col-md-9 col-sm-12">
-	         <h4>BUSINESS CONTINUITY</h4>
-	        <p>24/7 operations and up to 99% availability</p>	
+	         <h4>Flexible </h4>
+	        <p>Supports custom process flows,as per customer’s business needs.</p>	
 		  </div>					   
         </div>
     </div>
 	
 	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-md-3 col-sm-12"><img src="images/empowerd-workforce.png" alt="EMPOWERED WORKFORCE" class="img-fluid" /></div>
+	      <div class="col-md-3 col-sm-12"><img src="images/rugged.png" alt="Rugged" class="img-fluid" /></div>
 		  <div class="col-md-9 col-sm-12">
-			 <h4>EMPOWERED WORKFORCE</h4>
-			 <p>Improves employee satisfaction</p>	
-		  </div>					   
+			 <h4>Rugged </h4>
+			 <p>Simple yet robust system that is maintenance free and offers easy troubleshooting. </p>			 
+		 </div>					   
         </div>
     </div>
 	
 	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-md-3 col-sm-12"><img src="images/speed_icons.png" alt="IMPROVES SPEED AND ACCURACY" class="img-fluid" /></div>
+	      <div class="col-md-3 col-sm-12"><img src="images/reliable.png" alt="reliable" class="img-fluid" /></div>
 		  <div class="col-md-9 col-sm-12">
-			 <h4>IMPROVES SPEED AND ACCURACY</h4>
-			 <p>Faster and accurate fulfillment</p>
+			 <h4>Reliable </h4>
+			 <p>Highly reliable system that ensures minimal downtime of your process. </p>
 		  </div>					   
         </div>
     </div>
