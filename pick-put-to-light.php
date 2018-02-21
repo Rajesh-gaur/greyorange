@@ -14,7 +14,6 @@
   <link href="lib/animate/animate.min.css" rel="stylesheet">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
   <link href="css/style.css" rel="stylesheet">
 
 </head>
@@ -36,7 +35,7 @@
 		</div>
 		</div>
 		<div class="banner-image">
-	     <img src="images/butler_banner.jpg" alt="butler"/>
+	     <img src="images/pptl-banner.jpg" alt="butler"/>
 		</div>
         <div class="container">		
 		    <div class="butler-short-desc"><br/>
@@ -87,7 +86,7 @@
 	
 	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-md-3 col-sm-12"><img src="images/effect.png" alt="Efficiency" class="img-fluid" /></div>
+	      <div class="col-md-3 col-sm-12 ico"><img src="images/effect.png" alt="Efficiency" class="img-fluid" /></div>
 		  <div class="col-md-9 col-sm-12">
 			<h4>Efficiency </h4>
 			<p>Increases the order picking efficiency manifolds.</p>
@@ -97,7 +96,7 @@
 	
 	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-md-3 col-sm-12"><img src="images/accuracy.png" alt="Accuracy" class="img-fluid" /></div>
+	      <div class="col-md-3 col-sm-12 ico"><img src="images/accuracy.png" alt="Accuracy" class="img-fluid" /></div>
 		  <div class="col-md-9 col-sm-12">
 	        <h4>Accuracy</h4>
 	        <p>Ensures avoidance of errors while continuously sorting thousands of packets.</p>	 
@@ -109,7 +108,7 @@
 	
 	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-md-3 col-sm-12"><img src="images/lead-time_icons.png" alt="Integration" class="img-fluid" /></div>
+	      <div class="col-md-3 col-sm-12 ico"><img src="images/lead-time_icons.png" alt="Integration" class="img-fluid" /></div>
 		  <div class="col-md-9 col-sm-12">
 			 <h4>Integration</h4>
 			 <p>Integrates with most popular or proprietary enterprise systems.</p>	 
@@ -119,7 +118,7 @@
 	
 	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-md-3 col-sm-12"><img src="images/flexible.png" alt="Flexible" class="img-fluid" /></div>
+	      <div class="col-md-3 col-sm-12 ico"><img src="images/flexible.png" alt="Flexible" class="img-fluid" /></div>
 		  <div class="col-md-9 col-sm-12">
 	         <h4>Flexible </h4>
 	        <p>Supports custom process flows,as per customer’s business needs.</p>	
@@ -129,7 +128,7 @@
 	
 	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-md-3 col-sm-12"><img src="images/rugged.png" alt="Rugged" class="img-fluid" /></div>
+	      <div class="col-md-3 col-sm-12 ico"><img src="images/rugged.png" alt="Rugged" class="img-fluid" /></div>
 		  <div class="col-md-9 col-sm-12">
 			 <h4>Rugged </h4>
 			 <p>Simple yet robust system that is maintenance free and offers easy troubleshooting. </p>			 
@@ -139,195 +138,34 @@
 	
 	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-md-3 col-sm-12"><img src="images/reliable.png" alt="reliable" class="img-fluid" /></div>
+	      <div class="col-md-3 col-sm-12 ico"><img src="images/reliable.png" alt="reliable" class="img-fluid" /></div>
 		  <div class="col-md-9 col-sm-12">
 			 <h4>Reliable </h4>
 			 <p>Highly reliable system that ensures minimal downtime of your process. </p>
 		  </div>					   
         </div>
     </div>
- 
-     <div class="col-md-12 col-sm-12">
-	    <a href="javascript:;" class="btn cta-btn">Download Brochure </a>
-	    <a href="javascript:;" class="btn cta-btn">Check Case Studies</a>
-	 </div>
-	
+
      </div>  
+	 <hr/>
 	</div>  
  </section>
  
- <section class="workforce-block">
-	<div class="workforce">
-	  <div class="container">
-	 
-	   <h2>The Workforce</h2>
-		 <ul class="nav nav-tabs" role="tablist">
-		  <li class="nav-item">
-			<a class="nav-link active" data-toggle="tab" href="#butler" role="tab" aria-controls="butler">Butler</a>
-		  </li>
-		  <li class="nav-item">	
-			<a class="nav-link" data-toggle="tab" href="#MSU" role="tab" aria-controls="MSU">MSU</a>
-		  </li>
-		  <li class="nav-item">
-			<a class="nav-link" data-toggle="tab" href="#PPS" role="tab" aria-controls="PPS">PPS</a>
-		  </li>
-		  <li class="nav-item">
-			<a class="nav-link" data-toggle="tab" href="#charging" role="tab" aria-controls="charging">Charging</a>
-		  </li>
-		</ul>
-	   </div>
+ <section class="workforce-block pick-to-put">
+
+   <div class="container">	
+     <div class="col-sm-12 text-center"><h1>System Functionality</h1></div>   
+      <img src="images/system-functionality.jpg" alt="system funtionality" class="img-fluid" />
+	  
+	  
+	   <div class="col-md-12 col-sm-12">
+	    <a href="javascript:;" class="btn cta-btn">Download Brochure </a>
 	 </div>
 	 
-  <div class="container">	  
-	<div class="tab-content">
-	
-	<div class="tab-pane active" id="butler" role="tabpanel">
-	  <div class="butler-blocks">  
-	  
-	    <div class="bulter-article">
-		 <div class="butler-tab-img"><img src="images/butler-img-1.jpg" alt="" /></div>
-		 <div class="butler-tab-desc">
-		   <h3>The Butler Robot: M</h3>
-			<ul>
-			   <li>AI-powered robot that navigates and brings racks to the operator</li>
-			   <li>Runs at up to 1.5 meters/sec</li>
-			</ul>
-		 </div>
-	    </div><!--bulter-article-->
-		
-	    <div class="bulter-article">
-		 <div class="butler-tab-img"><img src="images/butler-img-1.jpg" alt="" /></div>
-		 <div class="butler-tab-desc">
-		 <h3>The Butler Robot: M</h3>
-			<ul>
-			   <li>MSUA I-powered robot that navigates and brings racks to the operator</li>
-			   <li>Runs at up to 1.5 meters/sec</li>
-			</ul>
-		 </div>
-	    </div><!--bulter-article-->
-		
-	   </div><!--butler-blocks-->	   
-	  </div><!--#home-->
-	  
-	  
-	  
-	  <div class="tab-pane  butler-blocks" id="MSU" role="tabpanel">
-		  <div class="butler-blocks">  
-		  
-			<div class="bulter-article">
-			 <div class="butler-tab-img"><img src="images/butler-img-1.jpg" alt="" /></div>
-			 <div class="butler-tab-desc">
-			 <h3>The Butler Robot: M</h3>
-				<ul>
-				   <li>MSU  -powered robot that navigates and brings racks to the operator</li>
-				   <li>Runs at up to 1.5 meters/sec</li>
-				</ul>
-			 </div>
-			</div><!--bulter-article-->
-			
-			<div class="bulter-article">
-			 <div class="butler-tab-img"><img src="images/butler-img-2.jpg" alt="" /></div>
-			 <div class="butler-tab-desc">
-			 <h3>The Butler Robot: M</h3>
-				<ul>
-				   <li>AI-powered robot that navigates and brings racks to the operator</li>
-				   <li>Runs at up to 1.5 meters/sec</li>
-				</ul>
-			 </div>
-			</div><!--bulter-article-->
-			
-		   </div><!--butler-blocks-->
-	  </div>
-	  
-	  
-	  <div class="tab-pane" id="PPS" role="tabpanel">
-	      <div class="butler-blocks">  
-		  
-			<div class="bulter-article">
-			 <div class="butler-tab-img"><img src="images/butler-img-1.jpg" alt="" /></div>
-			 <div class="butler-tab-desc">
-			 <h3>The Butler Robot: M</h3>
-				<ul>
-				   <li>11111AI-powered robot that navigates and brings racks to the operator</li>
-				   <li>Runs at up to 1.5 meters/sec</li>
-				</ul>
-			 </div>
-			</div><!--bulter-article-->
-			
-			<div class="bulter-article">
-			 <div class="butler-tab-img"><img src="images/butler-img-2.jpg" alt="" /></div>
-			 <div class="butler-tab-desc">
-			 <h3>The Butler Robot: M</h3>
-				<ul>
-				   <li>AI-powered robot that navigates and brings racks to the operator</li>
-				   <li>Runs at up to 1.5 meters/sec</li>
-				</ul>
-			 </div>
-			</div><!--bulter-article-->
-			
-		   </div><!--butler-blocks-->
-	  
-	  </div>
-	  <div class="tab-pane" id="charging" role="tabpanel">
-	      <div class="butler-blocks">  
-		  
-			<div class="bulter-article">
-			 <div class="butler-tab-img"><img src="images/butler-img-1.jpg" alt="" /></div>
-			 <div class="butler-tab-desc">
-			 <h3>The Butler Robot: M</h3>
-				<ul>
-				   <li>Chagring -powered robot that navigates and brings racks to the operator</li>
-				   <li>Runs at up to 1.5 meters/sec</li>
-				</ul>
-			 </div>
-			</div><!--bulter-article-->
-			
-			<div class="bulter-article">
-			 <div class="butler-tab-img"><img src="images/butler-img-2.jpg" alt="" /></div>
-			 <div class="butler-tab-desc">
-			 <h3>The Butler Robot: M</h3>
-				<ul>
-				   <li>AI-powered robot that navigates and brings racks to the operator</li>
-				   <li>Runs at up to 1.5 meters/sec</li>
-				</ul>
-			 </div>
-			</div><!--bulter-article-->
-			
-		   </div><!--butler-blocks-->
-	  
-	  </div>
-	</div><!--tab-content-->
-	
-	
-	 <p class="text-center">Sync Move ensures higher butler productivity and reduces operator wait time .</p>
-	 <p class="text-center">Rotatable Lift ensures efficient storage and reduced aisle space thereby improving the overall Butler system throughput.</p>
- 
-      <hr/>
-	 </div><!--container-->
-	 
-      <div class="butler-intro">
-	    <div class="container">
-		  <div class="row">
-		    <div class="col-md-6 col-sm-12">
-  		      <h3>Introducing GreyOrange Butler</h3>
-			  <p>An innovative goods-to-person technology, powered by Artificial Intelligence,
-			     for automated inventory management; storage (putaway) and replenishment; picking and combining orders in
-			     fulfillment and distribution centers.</p>
-		    </div>
-			<div class="col-md-6 col-sm-12">
-			  <div class="embed-responsive embed-responsive-16by9"> 
-			   <video width="100%" height="215" controls>
-				  <source src="images/greyorange.mp4" type="video/mp4">
-				</video>
-			  </div>
-			</div>
-			
-	      </div>
-	     </div>
-	    </div>
+  </div> 
 	
 	 
-	<div class="container-fluid bulter-img-pics">
+	<div class="container bulter-img-pics">
 	<div class="row">
 		<div class="col-md-6 col-sm-12">
 		  <div class="row">
@@ -337,7 +175,7 @@
 		
        <div class="col-md-6 col-sm-12">
 	     <div class="row">
-		   <img src="images/pickto-ship-img.jpg" class="img-fluid" alt="" />
+		   <img src="images/sorter-footer-big.jpg" class="img-fluid" alt="" />
 	  	 </div>
 		</div>
 	</div>	
@@ -360,7 +198,6 @@
   <script src="lib/counterup/counterup.min.js"></script>
   <script src="lib/owlcarousel/owl.carousel.min.js"></script>
   <script src="lib/isotope/isotope.pkgd.min.js"></script>
-  <script src="lib/lightbox/js/lightbox.min.js"></script>
   <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
 
   <script src="js/main.js"></script>

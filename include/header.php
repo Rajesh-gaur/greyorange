@@ -50,7 +50,9 @@
                     <li><a href="locate-partner.php">Partners</a></li>
                     <li><a href="career.php">Careers</a></li>
                     <li><a href="case.php">Case Study</a></li>
-                    <li><a href="pick-to-ship.php">Pick To Ship</a></li>
+                    <li><a href="pick-to-ship.php">Butler PickPal</a></li>
+                    <li><a href="greymatter.php">GreyMatter</a></li>
+                    <li><a href="pick-put-to-light.php">Pick Put To Light</a></li>
                 </ul>
              </div>
                 

@@ -57,9 +57,10 @@
 		    </div>
 			<div class="col-md-6 col-sm-12">
 			  <div class="embed-responsive embed-responsive-16by9"> 
-			   <video width="100%" height="215" controls>
+			  <iframe width="100%" height="200" src="https://www.youtube.com/embed/bnPn5qL1X5Q?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+			  <!-- <video width="100%" height="215" controls>
 				  <source src="images/greyorange.mp4" type="video/mp4">
-				</video>
+				</video>-->
 			  </div>
 			</div>
 			
@@ -85,7 +86,7 @@
 	
 	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-md-3 col-sm-12"><img src="images/growth.png" alt="ENHANCES BUSINESS AGILITY AND GROWTH" class="img-fluid" /></div>
+	      <div class="col-md-3 col-sm-12 ico"><img src="images/growth.png" alt="ENHANCES BUSINESS AGILITY AND GROWTH" class="img-fluid" /></div>
 		  <div class="col-md-9 col-sm-12">
 			<h4>ENHANCES BUSINESS AGILITY AND GROWTH</h4>
 			<p>Adapts to changing inventory profiles, demand patterns and peaks</p>
@@ -95,7 +96,7 @@
 	
 	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-md-3 col-sm-12"><img src="images/lower-cost.png" alt="LOWER OPERATING COSTS" class="img-fluid" /></div>
+	      <div class="col-md-3 col-sm-12 ico"><img src="images/lower-cost.png" alt="LOWER OPERATING COSTS" class="img-fluid" /></div>
 		  <div class="col-md-9 col-sm-12">
 	        <h4>LOWER OPERATING COSTS</h4>
 	        <p>Operator time saving by up to 70%</p>	 
@@ -107,7 +108,7 @@
 	
 	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-md-3 col-sm-12"><img src="images/eliminate.png" alt="ELIMINATE COMPLEXITY" class="img-fluid" /></div>
+	      <div class="col-md-3 col-sm-12 ico"><img src="images/eliminate.png" alt="ELIMINATE COMPLEXITY" class="img-fluid" /></div>
 		  <div class="col-md-9 col-sm-12">
 			 <h4>ELIMINATE COMPLEXITY</h4>
 			 <p>Reduces waste, increases efficiency </p>	 
@@ -117,7 +118,7 @@
 	
 	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-md-3 col-sm-12"><img src="images/business.png" alt="BUSINESS CONTINUITY" class="img-fluid" /></div>
+	      <div class="col-md-3 col-sm-12 ico"><img src="images/business.png" alt="BUSINESS CONTINUITY" class="img-fluid" /></div>
 		  <div class="col-md-9 col-sm-12">
 	         <h4>BUSINESS CONTINUITY</h4>
 	        <p>24/7 operations and up to 99% availability</p>	
@@ -127,7 +128,7 @@
 	
 	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-md-3 col-sm-12"><img src="images/empowerd-workforce.png" alt="EMPOWERED WORKFORCE" class="img-fluid" /></div>
+	      <div class="col-md-3 col-sm-12 ico"><img src="images/empowerd-workforce.png" alt="EMPOWERED WORKFORCE" class="img-fluid" /></div>
 		  <div class="col-md-9 col-sm-12">
 			 <h4>EMPOWERED WORKFORCE</h4>
 			 <p>Improves employee satisfaction</p>	
@@ -137,7 +138,7 @@
 	
 	<div class="col-md-4 col-sm-12">
 	    <div class="row">
-	      <div class="col-md-3 col-sm-12"><img src="images/speed_icons.png" alt="IMPROVES SPEED AND ACCURACY" class="img-fluid" /></div>
+	      <div class="col-md-3 col-sm-12 ico"><img src="images/speed_icons.png" alt="IMPROVES SPEED AND ACCURACY" class="img-fluid" /></div>
 		  <div class="col-md-9 col-sm-12">
 			 <h4>IMPROVES SPEED AND ACCURACY</h4>
 			 <p>Faster and accurate fulfillment</p>
@@ -147,7 +148,7 @@
  
      <div class="col-md-12 col-sm-12">
 	    <a href="javascript:;" class="btn cta-btn">Download Brochure </a>
-	    <a href="javascript:;" class="btn cta-btn">Check Case Studies</a>
+	    <a href="case.php" class="btn cta-btn">Check Case Studies</a>
 	 </div>
 	
      </div>  
@@ -284,9 +285,8 @@
 		    </div>
 			<div class="col-md-6 col-sm-12">
 			  <div class="embed-responsive embed-responsive-16by9"> 
-			   <video width="100%" height="215" controls>
-				  <source src="images/greyorange.mp4" type="video/mp4">
-				</video>
+			   <iframe width="100%" height="200" src="https://www.youtube.com/embed/bnPn5qL1X5Q?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+			  
 			  </div>
 			</div>
 			

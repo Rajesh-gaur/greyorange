@@ -14,7 +14,6 @@
   <link href="lib/animate/animate.min.css" rel="stylesheet">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
   <link href="css/style.css" rel="stylesheet">
 
 </head>
@@ -22,196 +21,163 @@
     <?php include('include/header.php');?>
   <div class="clear-fix"></div>
 
-	<section class="inner-banner greymetter-block">
+	<section class="inner-banner butler-bg">
 	  <div class="container">
 	   <div class="inner-head">
 	       
 		   <nav aria-label="breadcrumb">
-		   <h1>GreyMatter<span>TM</span></h1>
+		   <h1>GreyMatter</h1>
 			  <ol class="breadcrumb">
 				<li class="breadcrumb-item"><a href="index.php">Home</a></li>
 				<li class="breadcrumb-item active" aria-current="page">GreyMatter</li>
 			  </ol>
 			</nav>
 		</div>
-	  </div><!--container-->
-	     <div class="banner-image">
-		    <img src="images/greymetter-banner.jpg" alt="sorter"/>
-		 </div>	
-	 
-	</section><!--inner-banner greymetter-block-->
-	 
- 
- <section class="greymetter-description">
-    <div class="container">
-      <div class="row">	  
-	   <div class="col-sm-12 col-md-12">
-		<h2>The Next Generation AI Software Platform</h2>
-		<p>GreyMatterTM is an end-to-end Intelligent Order Fulfilment software platform that controls and manages automation in supply 
-		chain and warehouses by connecting people, process and technology. It is the key to uplifting goods-to-person performance in tandem
-		with the specific demands of a warehouse with the help of its core-3building blocks, which are:</p>			
-	   </div><!--col-sm-12 col-md-12 automate-sort-->
+		</div>
+		<div class="banner-image">
+	     <img src="images/greymetter-banner-top.jpg" alt="butler"/>
+		</div>
+        <div class="container">		
+		    <div class="butler-short-desc wow fadeInUp" data-wow-delay="0.2s"><br/>
+			   <p>Warehouses of today face a very different set of challenges such as globalization, product complexity, shorter development
+			  cycles and mass customization. The biggest opportunity is in operational 
+			  optimization and software is at the core of this revolution.</p>
+			  <p>Need of the hour for warehouses is to have a software centric approach that drives order fulfillment speed, 
+			  adaptability to changing business needs, inventory availability and control and manages order garularity</p><br/><br/>
+			</div> 
+		</div>
+		
+		 <div class="greymetter-block">
+		  <div class="container">	
+		  <div class="row">
+		    <div class="col-md-6 col-sm-12">
+  		      <h3>Introducing GreyMatter<span>TM</span></h3>
+			  <p>A decision science-driven software platform that encompasses warehouse material flow and automation control systems functionality, 
+			  delivering unmatched visibility, collaboration and actionable insights required to manage omnichannel warehouses, 
+			  distribution and fulfillment centers.</p>
+		    </div>
+			<div class="col-md-6 col-sm-12">
+			    <img src="images/Introducing-GreyMatter.png" alt="" class="img-fluid"/>
+			</div>
+			
+	     </div>
+	    </div>
+	    </div>
+		 
+		 
+		 
 	  </div>
-	</div>
- </section>
- 
- <section class="order-customer greymetter-block">
+	</section>
+
+
+ <section class="order-customer">
     <div class="container">
-      <div class="row">	  
-	    <div class="col-md-4 col-sm-12">
-			<div class="row">
-			  <div class="col-sm-12"><img src="images/execution-engine.png" alt="Increase Customer Satisfaction"  class="img-fluid" /></div>
-			  <div class="col-sm-12">
-				<h4>Execution Engine</h4>
-				<p>Intelligently manages executors (own & 3rd Party Products) and brings the synergy of integration 
-				to make processes more efficient and augments the customers’ experience.</p>
-			  </div>					   
-			</div>
-		</div>
-	</section>	
-		<div class="col-md-4 col-sm-12">
-			<div class="row">
-			  <div class="col-sm-12"><img src="images/core-operating-platform.png" alt="Discrepancies in Shipping Cost"  class="img-fluid" /></div>
-			  <div class="col-sm-12">
-				<h4>Core Operating Platform</h4>
-				<p>This is the process engine of the system available as modular objects that supports multiple 
-				business work flows and has pre-configured industry intelligence for e-commerce, retail, 3PL, and manufacturing segments.
-				</p>	 
-			  </div>					   
-			</div>
-		</div>
-		
-		<div class="col-md-4 col-sm-12">
-			<div class="row">
-			  <div class="col-sm-12"><img src="images/interprise-integration-layer.png" alt="Integration and Lead Time"  class="img-fluid" /></div>
-			  <div class="col-sm-12">
-				 <h4>Enterprise Integration Layer</h4>
-				 <p>Easy integration and intelligent synchronization with enterprise WMS, ERP as well other material handling systems.</p>	 
-			  </div>					   
-			</div>
-		</div>
-		
-		
+      <div class="row">
 	 
-		 <div class="col-sm-12 col-md-12 know-more-btn">
-			<a class="btn cta-btn">Know More</a>
-		 </div>
+	  <h2>Optimized Warehouse Operations</h2>
+	  <p>GreyMatterTM leverages Artificial Intelligence (AI) and Machine Learning (ML)  to optimize large and complex operations
+	  and to adapt to changing business demands, enabling future-ready warehouses. The system delivers:  </p>
+	
+	
+	<div class="col-md-4 col-sm-12">
+	    <div class="row">
+	      <div class="col-md-3 col-sm-12 ico"><img src="images/varied-payload_icons.png" alt="Adaptability  Across Varied Environments" class="img-fluid" /></div>
+		  <div class="col-md-9 col-sm-12">
+			<h4>Adaptability  Across Varied Environments</h4>
+			<p>From manual, to semi-automated, to fully automated facilities, GreyMatter can help</p>
+		  </div>					   
+        </div>
+    </div>
+	
+	<div class="col-md-4 col-sm-12">
+	    <div class="row">
+	      <div class="col-md-3 col-sm-12 ico"><img src="images/eliminate.png" alt="Widest range of functionality" class="img-fluid" /></div>
+		  <div class="col-md-9 col-sm-12">
+	        <h4>Widest range of functionality</h4>
+	        <p>Modular architecture to support business workflows business intelligence tools to drive a unified experience</p>	 
+		  </div>					   
+        </div>
+    </div>
+	
+	
+	
+	<div class="col-md-4 col-sm-12">
+	    <div class="row">
+	      <div class="col-md-3 col-sm-12 ico"><img src="images/optimizing_icons_100x100.png" alt="Single Solution to Optimizing Productivity" class="img-fluid" /></div>
+		  <div class="col-md-9 col-sm-12">
+			 <h4>Single Solution to Optimizing Productivity</h4>
+			 <p>Eliminates costly IT integration and maintenance costs while providing superior operational value.</p>	 
+		  </div>					   
+        </div>
+    </div>
+	
+	<div class="col-md-4 col-sm-12">
+	    <div class="row">
+	      <div class="col-md-3 col-sm-12 ico"><img src="images/lead-time_icons.png" alt="Real Time Decision Science for Continuous Improvement" class="img-fluid" /></div>
+		  <div class="col-md-9 col-sm-12">
+	         <h4>Real Time Decision Science for Continuous Improvement</h4>
+	        <p>Designed to make best use of resources to deliver high performance and agility on time and on budget. </p>	
+		  </div>					   
+        </div>
+    </div>
+	
+	<div class="col-md-4 col-sm-12">
+	    <div class="row">
+	      <div class="col-md-3 col-sm-12 ico"><img src="images/drive_development_icons_100x100.png" alt="Complete configurability for purpose drive deployment" class="img-fluid" /></div>
+		  <div class="col-md-9 col-sm-12">
+			 <h4>Complete configurability for purpose drive deployment</h4>
+			 <p>Advanced process flow logic for real time evaluation and processing of tasks based on urgency and available resources</p>	
+		  </div>					   
+        </div>
+    </div>
+	
+	
+    
 	
      </div>  
 	</div>  
- </section><!--order-customer-->
-		 
-		 
- <section class="workforce-block">
+ </section>
  
-	<div class="workforce">
-	  <div class="container">	 
-	    <h2>Sorter Variants</h2>
-		 <ul class="nav nav-tabs" id="myTab" role="tablist">
-		  <li class="nav-item">  	    	
-			<a class="nav-link active" data-toggle="tab" href="#series1st" role="tab" aria-controls="series1st">Series 6000</a>
-		  </li>
-		  <li class="nav-item">	
-			<a class="nav-link" data-toggle="tab" href="#series2nd" role="tab" aria-controls="series2nd">Series 3000</a>
-		  </li>
-		  <li class="nav-item">
-			<a class="nav-link" data-toggle="tab" href="#expandable" role="tab" aria-controls="expandable">Series 3000 Expandable</a>
-		  </li>
-		  <li class="nav-item">
-			<a class="nav-link " data-toggle="tab" href="#series4th" role="tab" aria-controls="series4th">Series 1500</a>
-		  </li>
-		</ul>
-	   </div>
-	 </div><!--workforce-->
+ <section class="workforce-block">
+	
+  
 	 
-  <div class="container">	  
-	<div class="tab-content">	
-	<div class="tab-pane active" id="series1st" role="tabpanel">
-	  <div class="butler-blocks">  
-	    <div class="row">
-		 <div class="col-sm-12 col-md-5"><img src="images/sorter-img.jpg" alt="" class="img-fluid" /></div>
-		 <div class="col-sm-12 col-md-7">
-		   <h3>Series 6000</h3>
-			<ul>
-			   <li>AI-powered robot that navigates and brings racks to the operator</li>
-			   <li>Runs at up to 1.5 meters/sec</li>
-			</ul>
-		 </div>
-	    </div><!--row-->	   
-		
-	   </div><!--butler-blocks-->	   
-	  </div><!--#home-->
-	  
-	  
-	  
-	  <div class="tab-pane  butler-blocks" id="series2nd" role="tabpanel">
-		  <div class="butler-blocks">  
-		  
-			<div class="row">
-		 <div class="col-sm-12 col-md-5"><img src="images/sorter-img.jpg" alt="" class="img-fluid" /></div>
-		 <div class="col-sm-12 col-md-7">
-		   <h3>Series 3000</h3>
-			<ul>
-			   <li>AI-powered robot that navigates and brings racks to the operator</li>
-			   <li>Runs at up to 1.5 meters/sec</li>
-			</ul>
-		 </div>
-	    </div><!--row-->
+      <div class="butler-intro">
+	    <div class="container">
+		  <div class="row">
+		    <div class="col-md-7 col-sm-12">
+  		      <h3>Warehouse Apps (Powered by GreyMatterTM)</h3>
+			  <p>Warehousing apps, powered by GreyMatter, provides the full range of functionality needed to address all warehouse automation 
+			  and processing challenges from receiving inventory until the dispatch of material to customers.</p>
+		    </div>
+			<div class="col-md-5 col-sm-12 greymatter-intro-img">
+			   <img src="images/warehouse-apps.png" alt="" class="img-fluid"/>
+			</div>
 			
-		   </div><!--butler-blocks-->
-	  </div>
-	  
-	  
-	  <div class="tab-pane" id="expandable" role="tabpanel">
-	      <div class="butler-blocks">  
-		  
-			<div class="row">
-		 <div class="col-sm-12 col-md-5"><img src="images/sorter-img.jpg" alt="" class="img-fluid" /></div>
-		 <div class="col-sm-12 col-md-7">
-		   <h3>Series 3000 Expandable</h3>
-			<ul>
-			   <li>AI-powered robot that navigates and brings racks to the operator</li>
-			   <li>Runs at up to 1.5 meters/sec</li>
-			</ul>
-		 </div>
-	    </div><!--row-->
-			
-		   </div><!--butler-blocks-->
-	  
-	  </div>
-	  <div class="tab-pane" id="series4th" role="tabpanel">
-	      <div class="butler-blocks">  
-		  
-			<div class="row">
-			 <div class="col-sm-12 col-md-5"><img src="images/sorter-img.jpg" alt="" class="img-fluid" /></div>
-			 <div class="col-sm-12 col-md-7">
-			   <h3>Series 1500</h3>
-				<ul>
-				   <li>AI-powered robot that navigates and brings racks to the operator</li>
-				   <li>Runs at up to 1.5 meters/sec</li>
-				</ul>
-			 </div>
-			</div><!--row-->
-			
-		   </div><!--butler-blocks-->
-	  
-	  </div>
-	</div><!--tab-content-->
-     
+	      </div>
+	     </div>
+	    </div>
+	
 	 
 	<div class="container bulter-img-pics">
-	  <div class="row">
-		<div class="col-sm-6">
-		  <div class="row"><img src="images/grey-metter-img.jpg" class="img-fluid" alt="" /></div>
-		</div>		
-         <div class="col-sm-6">
-	       <div class="row"><img src="images/pickto-ship-img.jpg" class="img-fluid" alt="" /></div>
-		 </div>
-	  </div>	
-	</div><!--container bulter-img-pics-->	
-
-</section><!--workforce-block-->
+	<div class="row">
+		<div class="col-md-6 col-sm-12">
+		  <div class="row">
+		   <img src="images/sorter-footer-big.jpg" class="img-fluid" alt="" />
+		   </div>
+		</div>
 		
+       <div class="col-md-6 col-sm-12">
+	     <div class="row">
+		   <img src="images/butler-footer-big.jpg" class="img-fluid" alt="" />
+	  	 </div>
+		</div>
+	</div>	
+	</div>	
+
+</section>
+	
+
  <?php include('include/footer.php');?>
 
   <!-- JavaScript Libraries -->
@@ -226,10 +192,10 @@
   <script src="lib/counterup/counterup.min.js"></script>
   <script src="lib/owlcarousel/owl.carousel.min.js"></script>
   <script src="lib/isotope/isotope.pkgd.min.js"></script>
-  <script src="lib/lightbox/js/lightbox.min.js"></script>
   <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
 
   <script src="js/main.js"></script>
+ 
  
  
 
@@ -249,5 +215,3 @@
 </script>
 </body>
 </html>
-
-

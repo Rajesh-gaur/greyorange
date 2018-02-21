@@ -91,7 +91,7 @@
 		
 		<div class="col-md-4 col-sm-12">
 			<div class="row">
-			  <div class="col-sm-12"><img src="images/customer_icons.png" alt="Increase Customer Satisfaction"  class="img-fluid" /></div>
+			  <div class="col-sm-12 ico"><img src="images/customer_icons.png" alt="Increase Customer Satisfaction"  class="img-fluid" /></div>
 			  <div class="col-sm-12">
 				<h4>Increase Customer Satisfaction</h4>
 				<p>With the help of GreyOrange Linear Sorter, your customers get right and fast 
@@ -102,7 +102,7 @@
 		
 		<div class="col-md-4 col-sm-12">
 			<div class="row">
-			  <div class="col-sm-12"><img src="images/shipping_icons.png" alt="Discrepancies in Shipping Cost"  class="img-fluid" /></div>
+			  <div class="col-sm-12 ico"><img src="images/shipping_icons.png" alt="Discrepancies in Shipping Cost"  class="img-fluid" /></div>
 			  <div class="col-sm-12">
 				<h4>Discrepancies in Shipping Cost</h4>
 				<p>With our leading-edge technology that determines both volumetric and gross weight of every packet in real-time, 
@@ -114,7 +114,7 @@
 		
 		<div class="col-md-4 col-sm-12">
 			<div class="row">
-			  <div class="col-sm-12"><img src="images/lead-time_icons.png" alt="Integration and Lead Time"  class="img-fluid" /></div>
+			  <div class="col-sm-12 ico"><img src="images/lead-time_icons.png" alt="Integration and Lead Time"  class="img-fluid" /></div>
 			  <div class="col-sm-12">
 				 <h4>Integration and Lead Time</h4>
 				 <p>GreyOrange Linear Sorter system works 
@@ -125,7 +125,7 @@
 		
 		<div class="col-md-4 col-sm-12">
 			<div class="row">
-			  <div class="col-sm-12"><img src="images/growth.png" alt="Seasonal Demand Surge"  class="img-fluid" /></div>
+			  <div class="col-sm-12 ico"><img src="images/growth.png" alt="Seasonal Demand Surge"  class="img-fluid" /></div>
 			  <div class="col-sm-12">
 				 <h4>Seasonal Demand Surge </h4>
 				<p>Handling demand peaks become efficient and easy with GreyOrange Linear Sorter. Our dynamic software 
@@ -136,7 +136,7 @@
 	
 		<div class="col-md-4 col-sm-12">
 			<div class="row">
-			  <div class="col-sm-12 col-md-12"><img src="images/varied-payload_icons.png" alt="Varied Payload Types" class="img-fluid"  /></div>
+			  <div class="col-sm-12 col-md-12 ico"><img src="images/varied-payload_icons.png" alt="Varied Payload Types" class="img-fluid"  /></div>
 			  <div class="col-sm-12 col-md-12">
 				 <h4>Varied Payload Types</h4>
 				 <p>GreyOrange Linear Sorter is designed for sorting variety of payloads including polybags and regular and irregular packets
@@ -147,7 +147,7 @@
 	
 		<div class="col-md-4 col-sm-12">
 			<div class="row">
-			  <div class="col-sm-12 col-md-12"><img src="images/low-Maintinance_icons.png" alt="Low Maintenance and TCO" class="img-fluid"  /></div>
+			  <div class="col-sm-12 col-md-12 ico"><img src="images/low-Maintinance_icons.png" alt="Low Maintenance and TCO" class="img-fluid"  /></div>
 			  <div class="col-sm-12 col-md-12">
 				 <h4>Low Maintenance and TCO</h4>
 				 <p>With SLA-based AMC (includes spare-parts, labor, and maintenance cost), even after a few years, 
@@ -158,7 +158,7 @@
 	 
 		 <div class="col-sm-12 col-md-12">
 			<button class="btn cta-btn">Download Brochure</button>
-			<button class="btn cta-btn">Check Case Studies</button>
+			<button class="btn cta-btn"><a href="case.php">Check Case Studies</a></button>
 		 </div>
 	
      </div>  

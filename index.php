@@ -12,7 +12,6 @@
   <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link href="lib/animate/animate.min.css" rel="stylesheet">
-  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
   <link href="css/style.css" rel="stylesheet">
@@ -27,23 +26,34 @@
       <div id="introCarousel" class="">		
         <div class="carousel-inner">
 		
-          <div class="carousel-item active" style="background-image: url('images/home-banner.jpg');">
+          <div class="carousel-item active" style="background-color:#000;">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2>Enabling Fully Automated Supply Chain</h2>
-                <p>with intelligent order fulfillment systems</p> 
+
+				
+				<div class="video-container">
+				 <video autoplay muted loop id="myVideo">
+				  <source src="images/greyorange.mp4" type="video/mp4">
+				 </video>
+				</div>
+				
+				<div class="banner-content">
+					<h2>Enabling Fully Automated Supply Chain</h2>
+					<p>with intelligent order fulfillment systems</p> 
 				
 				
                 <!--<a href="images/banner-1.jpg" data-lightbox="portfolio" data-title="video" class="link-preview btn-get-started " title="Preview">
 				Watch Video</a>-->		
 				
-				<a href="javascript:;" onClick="openPopup(this);" class="link-preview btn-get-started " >Watch Video</a>
+				<a href="javascript:;" class="link-preview btn-get-started open-popup" >Watch Video</a>
 				<div id="video-home-box" class="popup-home" style="display:none;">
 				   <div class="watch-video col-sm-12 col-md-6 offset-md-3">
-					<div class="cancel" onclick="closePopup();">X</div>
-					<iframe width="100%" height="100%" src="https://www.youtube.com/embed/bnPn5qL1X5Q?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<div class="cancel close-popup" >X</div>
+					  <iframe id="playerID" width="100%" height="100%" src="https://www.youtube.com/embed/bnPn5qL1X5Q" frameborder="0" allowfullscreen>
+					   </iframe>
 				   </div>
 				</div>	
+				</div>
 	        </div>
 		</div>
 	  </div>  
@@ -105,22 +115,22 @@ automation in warehouses, fulfillment centers and distribution centers</p>
 		  <div class="carousel-inner">
 			
 			<div class="carousel-item active">
-			  <img src="images/banner-1.jpg" alt="grey orange" class="img-fluid">
-			  <div class="carousel-caption">
+			  <a href="butler.php"><img src="images/banner-1.jpg" alt="grey orange" class="img-fluid"></a>
+			  <!--<div class="carousel-caption">
 				<h2>Butler</h2>
 				<h3>Decision Science Driven</h3>
 				<p>Goods-to-Person system</p>
 				<p>  <a href="butler.php" class="btn know-btn">Know More</a>	</p>
-			  </div>   
+			  </div> -->  
 			</div>
 			<div class="carousel-item">
-			  <img src="images/banner-2.jpg" alt="grey orange" class="img-fluid">
-			  <div class="carousel-caption">
+			   <a href="sorter.php"><img src="images/banner-2.jpg" alt="grey orange" class="img-fluid"></a>
+			  <!--<div class="carousel-caption">
 				<h2>Sorter</h2>
 				<h3>Need-Based and Cost Optimized</h3>
 				<p>Sortation Product</p>
 				<p>  <a href="sorter.php" class="btn know-btn">Know More</a>	</p>
-			  </div>     
+			  </div> -->    
 			</div>
 		  </div>
 		 
@@ -275,7 +285,6 @@ higher throughput order consolidation for vertical e-commerce.</a></span>
   <script src="lib/jquery/jquery-migrate.min.js"></script>
   <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="lib/easing/easing.min.js"></script>
-  <script src="lib/superfish/hoverIntent.js"></script>
   <script src="lib/superfish/superfish.min.js"></script>
   <script src="lib/wow/wow.min.js"></script>
   <script src="lib/waypoints/waypoints.min.js"></script>
@@ -318,23 +327,49 @@ higher throughput order consolidation for vertical e-commerce.</a></span>
 </script>
 
 
-<script>
-function openPopup(elem) {
-   $(elem).next().fadeIn(200);
-   $(elem).next().siblings(".popup-home").hide();
-}
+<script type="text/javascript">
+//video popup code here 
+var src = $('#video-home-box').children('iframe').attr('src');
+$('.open-popup').click(function(e) {
+    e.preventDefault();
+    var videoURL = $('#playerID').prop('src');
+    videoURL += "?autoplay=1";
+    $('#playerID').prop('src',videoURL);
+    $('.popup-home').fadeIn(200);
+});
 
-
-function closePopup() {
+$('.close-popup').click(function(e) {
+    e.preventDefault();
+    var videoURL = $('#playerID').prop('src');
+    videoURL = videoURL.replace("?autoplay=1", "");
+    $('#playerID').prop('src','');
+    $('#playerID').prop('src',videoURL);
     $('.popup-home').fadeOut(300);
-}
-
+});
 	$('.btn-get-started').click(function(){
 	  $('.down-page').hide();	
 	});
 	$('#video-home-box .cancel').click(function(){
 		 $('.down-page').show();		
 	});
+
+	
+	
+	
+</script>
+<script>
+var video = document.getElementById("myVideo");
+var btn = document.getElementById("myBtn");
+
+function myFunction() {
+  if (video.paused) {
+    video.play();
+    btn.innerHTML = "Pause";
+  } else {
+    video.pause();
+    btn.innerHTML = "Play";
+  }
+}
 </script>
 </body>
 </html>

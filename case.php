@@ -37,8 +37,9 @@
 	   
 	  </div>
 	</section>
+	
 <div class="banner-image">
- <img src="images/case-study-banner.jpg" alt="case"/>
+ <a href="consumer-products.php"><img src="images/case-study-banner.jpg" alt="case"/></a>
 </div>
 
   <section id="case-study" class="case-study-section">
@@ -83,7 +84,7 @@ higher throughput order consolidation for vertical e-commerce.</a></span>
               </div>
             </div>
           </div>
-          <div class="case-block col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+          <!--<div class="case-block col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
               <img src="images/use-case.jpg" class="img-fluid" alt="Consumer Products">
               <div class="member-info">
@@ -93,7 +94,7 @@ higher throughput order consolidation for vertical e-commerce.</a></span>
                 </div>
               </div>
             </div>
-          </div>
+          </div>-->
 		  
 		  <div class="case-block col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
