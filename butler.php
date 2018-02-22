@@ -215,7 +215,7 @@
 		  <div class="butler-blocks">  
 		  <div class="row">
 			 <div class="col-sm-12 col-md-5"><img src="images/msu.jpg" alt="" class="img-fluid"  /></div>
-			 <div class="col-sm-12 col-md-7"><br/>
+			 <div class="col-sm-12 col-md-7 butler-tab-desc"><br/>
 			  <h3>Mobile Storage Units (MSU)</h3>
 				<ul>
 				   <li>Store big and small cases, indivisible items , pallets and much more. </li>
@@ -234,7 +234,7 @@
 		  
 			<div class="row">
 			 <div class="col-sm-12 col-md-5"><img src="images/pps.jpg" alt="" class="img-fluid"  /></div>
-			 <div class="col-sm-12 col-md-7"><br/>
+			 <div class="col-sm-12 col-md-7 butler-tab-desc"><br/>
 			  <h3>Pick Put Stations(PPS)</h3>
 				<ul>
 				   <li>Multipurpose workstation with multi-lingual user interface for guided pick, pathway, audit and returns operations.</li>
@@ -252,7 +252,7 @@
 		  
 			<div class="row">
 			 <div class="col-sm-12 col-md-5"><img src="images/smart-charging-station.jpg" alt="" class="img-fluid" /></div>
-			 <div class="col-sm-12 col-md-7"><br/>
+			 <div class="col-sm-12 col-md-7 butler-tab-desc"><br/>
 			  <h3>Smart Charging station</h3>
 				<ul>
 				   <li>Intelligent charging algorithm that enables opportunity charging.</li>

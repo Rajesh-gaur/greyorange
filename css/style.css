@@ -1269,7 +1269,7 @@ height: 50px; margin: 40px 40px 40px 0px;}
 background-position: 10px 3px;list-style: none;}    
 
 .butler-blocks {width: 100%;display: inline-block;} 
-.butler-blocks ul {padding: 0 20px;}
+
 .butler-blocks .bulter-article{width:50%;float:left;display:block;}
 .butler-blocks .bulter-article .line-first{border-right: 1px solid #ddd;}
 .bulter-article .butler-tab-img {float: left;width: 40%;margin-right: 15px;display: block;}

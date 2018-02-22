@@ -18,7 +18,17 @@
    
 </head>
 <body>
-
+<style>
+#dvLoading
+{
+   background:#fff url('images/loading.gif') no-repeat center center;
+   height: 100%;
+   width: 100%;
+   position: fixed;
+   z-index: 999999;
+}
+</style>
+   <div id="dvLoading"></div>
 <?php include('include/header.php');?>
 
   <section id="intro">
@@ -145,7 +155,7 @@ automation in warehouses, fulfillment centers and distribution centers</p>
 		</div> 
 		  <div class="container text-center">  
 			<h3>Industry Engine | Core Operating Platform | Execution Engine</h3>
-			<a class="cta-btn" href="#">Know More</a>
+			<a class="cta-btn" href="greymatter.php">Know More</a>
 		  </div>
 		</div>  
 	</section><!--#greymetter-->
@@ -370,6 +380,11 @@ function myFunction() {
     btn.innerHTML = "Play";
   }
 }
+</script>
+<script>
+jQuery(window).load(function(){
+  jQuery('#dvLoading').fadeOut(2000);
+});
 </script>
 </body>
 </html>

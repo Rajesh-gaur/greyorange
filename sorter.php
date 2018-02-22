@@ -197,7 +197,7 @@
 	  <div class="butler-blocks">  
 	    <div class="row">
 		 <div class="col-sm-12 col-md-5"><img src="images/series-6000.jpg" alt="" class="img-fluid" /></div>
-		 <div class="col-sm-12 col-md-7"><br/>
+		 <div class="col-sm-12 col-md-7 butler-tab-desc"><br/>
 		   <h3>Series 6000</h3>
 			<ul>
 			   <li>Up to 6000 sorts per hour</li>
@@ -213,7 +213,7 @@
 	  <div class="butler-blocks">  
 	    <div class="row">
 		 <div class="col-sm-12 col-md-5"><img src="images/series-3000-extension.jpg" alt="" class="img-fluid" /></div>
-		 <div class="col-sm-12 col-md-7"><br/>
+		 <div class="col-sm-12 col-md-7 butler-tab-desc"><br/>
 		   <h3>Series 3000 Expandable</h3>
 			<ul>
 			   <li>Up to 3000 sorts per hour</li>
@@ -233,7 +233,7 @@
 		  
 			<div class="row">
 		 <div class="col-sm-12 col-md-5"><img src="images/series-3000.jpg" alt="" class="img-fluid" /></div>
-		 <div class="col-sm-12 col-md-7"><br/>
+		 <div class="col-sm-12 col-md-7 butler-tab-desc"><br/>
 		   <h3>Series 3000</h3>
 			<ul>
 			   <li>Up to 3000 sorts per hour</li>
@@ -251,7 +251,7 @@
 	   <div class="butler-blocks"> 		  
 		<div class="row">
 		 <div class="col-sm-12 col-md-5"><img src="images/series-1500.jpg" alt="" class="img-fluid" /></div>
-		 <div class="col-sm-12 col-md-7"><br/>
+		 <div class="col-sm-12 col-md-7 butler-tab-desc"><br/>
 		   <h3>Series 1500</h3>
 			<ul>
 			   <li>Up to 1500 sorts per hour</li>
@@ -269,7 +269,7 @@
 		  
 			<div class="row">
 			 <div class="col-sm-12 col-md-5"><img src="images/pptl.jpg" alt="" class="img-fluid" /></div>
-			 <div class="col-sm-12 col-md-7"><br/>
+			 <div class="col-sm-12 col-md-7 butler-tab-desc"><br/>
 			   <h3>PPTL Sort</h3>
 				<ul>
 				   <li>Up to 500 sorts per hour</li>
