@@ -24,7 +24,7 @@
   
   <div class="clear-fix"></div>
 	<section class="inner-banner">
-	  <div class="container">
+	  <div class="container-fluid">
 	   <div class="inner-head">	       
 		   <nav aria-label="breadcrumb">
 		   <h1>Case Studies</h1>
@@ -38,7 +38,7 @@
 	  </div>
 	</section>
 	
-<div class="banner-image">
+<div class="banner-product-image">
  <a href="consumer-products.php"><img src="images/case-study-banner.jpg" alt="case"/></a>
 </div>
 
@@ -48,12 +48,15 @@
         <div class="row">
            
           <div class="case-block col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="member">
-              <img src="images/case1.jpg" class="img-fluid" alt="Parcel Sortation">
+            <div class="member imagebox">
+              <img src="images/case1.jpg" class="img-fluid" alt="Parcel Sortation">			
+			  <span class="overlay"></span>
+			  
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Parcel Sortation</h4>
                   <span><a href="parcel-sortation.php">Delivered higher throughput parcel sortation for 3PL/E-Commerce/Parcel Courier</a></span>
+				    <div class="case-readmore"><a href="parcel-sortation.php">Read More</a></div>	
                 </div>
               </div>
             </div>
@@ -61,25 +64,30 @@
 
           
           <div class="case-block col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
-              <img src="images/ecommerce-fulfill.jpg" class="img-fluid" alt="Ecommerce-fulfillment">
+            <div class="member imagebox">
+              <img src="images/ecommerce-fulfill.jpg" class="img-fluid" alt="Ecommerce-fulfillment">		
+			  <span class="overlay"></span>  
+			  
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Vertical Ecommerce Fulfillment</h4>
                   <span><a href="ecommerce-fulfillment.php">Japan’s largest home furnishing chain (400 stores),
-fulfilling online orders from over 10,000 SKUs</a></span>                  
+fulfilling online orders from over 10,000 SKUs</a></span> 
+                  <div class="case-readmore"><a href="ecommerce-fulfillment.php">Read More</a></div>	                 
                 </div>
               </div>
             </div>
           </div> 
 		  <div class="case-block col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
-              <img src="images/order-consolidation.jpg" class="img-fluid" alt="Order Consolidation">
+            <div class="member imagebox">
+              <img src="images/order-consolidation.jpg" class="img-fluid" alt="Order Consolidation">			
+			  <span class="overlay"></span>
+			  
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Order Consolidation</h4>
-                  <span><a href="order-consolidation.php">Delivered
-higher throughput order consolidation for vertical e-commerce.</a></span>                  
+                  <span><a href="order-consolidation.php">Delivered higher throughput order consolidation for vertical e-commerce.</a></span> 
+                    <div class="case-readmore"><a href="order-consolidation.php">Read More</a></div>				  
                 </div>
               </div>
             </div>
@@ -97,12 +105,15 @@ higher throughput order consolidation for vertical e-commerce.</a></span>
           </div>-->
 		  
 		  <div class="case-block col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
-              <img src="images/omni-channel.jpg" class="img-fluid" alt="omni channel">
+            <div class="member imagebox">
+              <img src="images/omni-channel.jpg" class="img-fluid" alt="omni channel">					
+			  <span class="overlay"></span>		  
+			  
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Omni - channel fulfillment center</h4>
-                  <span><a href="case-detail.php">Leading home improvement store chain in Latin America</a></span>                  
+                  <span><a href="case-detail.php">Leading home improvement store chain in Latin America</a></span> 
+                  <div class="case-readmore"><a href="case-detail.php">Read More</a></div>					  
                 </div>
               </div>
             </div>

@@ -9,6 +9,7 @@
   <meta content="" name="keywords">
   <meta content="" name="description">
  <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+ 
   <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link href="lib/animate/animate.min.css" rel="stylesheet">
@@ -22,7 +23,7 @@
   <div class="clear-fix"></div>
 
 	<section class="inner-banner butler-bg">
-	  <div class="container">
+	  <div class="container-fluid">
 	   <div class="inner-head">
 	       
 		   <nav aria-label="breadcrumb">
@@ -34,7 +35,7 @@
 			</nav>
 		</div>
 		</div>
-		<div class="banner-image">
+		<div class="banner-product-image">
 	     <img src="images/pptl-banner.jpg" alt="butler"/>
 		</div>
         <div class="container">		
@@ -63,14 +64,9 @@
 				</video>
 			  </div>
 			</div>
-			
 	     </div>
 	    </div>
 	    </div>
-		 
-		 
-		 
-	  </div>
 	</section>
 
 

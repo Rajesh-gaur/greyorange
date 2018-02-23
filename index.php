@@ -49,15 +49,12 @@
 				
 				<div class="banner-content">
 					<h2>Enabling Fully Automated Supply Chain</h2>
-					<p>with intelligent order fulfillment systems</p> 
+					<p>with intelligent order fulfillment systems</p> 		
 				
-				
-                <!--<a href="images/banner-1.jpg" data-lightbox="portfolio" data-title="video" class="link-preview btn-get-started " title="Preview">
-				Watch Video</a>-->		
-				
+              
 				<a href="javascript:;" class="link-preview btn-get-started open-popup" >Watch Video</a>
 				<div id="video-home-box" class="popup-home" style="display:none;">
-				   <div class="watch-video col-sm-12 col-md-6 offset-md-3">
+				   <div class="watch-video col-sm-12 col-md-7 offset-md-3">
 					<div class="cancel close-popup" >X</div>
 					  <iframe id="playerID" width="100%" height="100%" src="https://www.youtube.com/embed/bnPn5qL1X5Q" frameborder="0" allowfullscreen>
 					   </iframe>
@@ -108,7 +105,7 @@ automation in warehouses, fulfillment centers and distribution centers</p>
               </div>			  
               <div class="offset-md-2 col-sm-8 about-btns">
 			    <a href="#" class="btn know-btn">Know More</a>			  
-			    <a href="#" class="btn connect-btn">Connect with us</a>
+			    <a href="contact.php" class="btn connect-btn">Connect with us</a>
               </div>			  
             </div>
           </div>
@@ -162,7 +159,7 @@ automation in warehouses, fulfillment centers and distribution centers</p>
 
  
 
-  <section id="case-study">
+  <section id="case-study" class="home-case-study">
       <div class="container">
         <div class="section-header wow fadeInUp">
           <h3>Case Studies</h3>
@@ -172,8 +169,9 @@ automation in warehouses, fulfillment centers and distribution centers</p>
         <div class="row">
 
           <div class="case-block col-lg-4 col-md-6 wow fadeInUp">
-            <div class="member">
+            <div class="member imagebox">
               <img src="images/ecommerce-fulfill.jpg" class="img-fluid" alt="">
+			  <span class="overlay"></span>   
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Vertical Ecommerce Fulfillment</h4>
@@ -185,8 +183,9 @@ fulfilling online orders from over 10,000 SKUs</a></span>
           </div>
            
           <div class="case-block col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="member">
+            <div class="member imagebox">
               <img src="images/order-consolidation.jpg" class="img-fluid" alt="">
+			   <span class="overlay"></span>   
               <div class="member-info">
                 <div class="member-info-content">
                  <h4>Order Consolidation</h4>
@@ -198,8 +197,9 @@ higher throughput order consolidation for vertical e-commerce.</a></span>
           </div>
 
           <div class="case-block col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
+            <div class="member imagebox">
               <img src="images/case1.jpg" class="img-fluid" alt="">
+			   <span class="overlay"></span>   
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Parcel Sortation</h4>
@@ -332,8 +332,11 @@ higher throughput order consolidation for vertical e-commerce.</a></span>
 	$(document).ready(function () {
 		 $('#sidebarCollapse').on('click', function () {
 			 $('#sidebar').toggleClass('active');
+			 
 		 });
 	 });
+
+
 </script>
 
 
@@ -363,7 +366,6 @@ $('.close-popup').click(function(e) {
 		 $('.down-page').show();		
 	});
 
-	
 	
 	
 </script>

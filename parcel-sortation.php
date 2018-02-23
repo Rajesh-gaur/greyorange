@@ -23,7 +23,7 @@
   <div class="clear-fix"></div>
 
 	<section class="inner-banner">
-	  <div class="container">
+	  <div class="container-fluid">
 	   <div class="inner-head">
 	       
 		   <nav aria-label="breadcrumb">
@@ -37,8 +37,9 @@
 		</div>
 	</div>
 		
-	 <div class="banner-image">	
+	 <div class="banner-product-image">	
 	    <img src="images/parcel-sortation.jpg" alt="parcel"/>
+		
 	 <div class="container">	
 		<div class="join">
 			<div class="col-md-12 col-sm-12">
@@ -51,7 +52,7 @@
 			  </div>
 			</div>
         </div>
-		
+		</div>
 	  </div>
 	</section>
 

@@ -23,9 +23,8 @@
   <div class="clear-fix"></div>
 
 	<section class="inner-banner locate-banner">
-	  <div class="container">
-	   <div class="inner-head">
-	       
+	  <div class="container-fluid">
+	   <div class="inner-head">	       
 		   <nav aria-label="breadcrumb">
 		   <h1>Partners</h1>
 			  <ol class="breadcrumb">
@@ -35,9 +34,7 @@
 			</nav>
 		</div>
 	  </div>		
-	    <div class="banner-image">			
-	      <img src="images/locate-partner-banner.jpg" alt="Locate Partner"/>			
-	    </div>
+	    <div class="banner-image partner-banners"></div>
 
 	</section>
 

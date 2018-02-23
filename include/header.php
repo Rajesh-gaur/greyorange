@@ -22,10 +22,10 @@
 	
             <!-- Sidebar Holder -->
             <nav id="sidebar">
-			  <div id="sidebarCollapse" class="btn">
-				  <img src="images/nav.png" class="opan-arrow" />
-				  <img src="images/nav-home.png" class="opan-home" />
-				  <img src="images/left-arrow.png" class="cancel-arrow" />
+			    <div id="sidebarCollapse" class="btn">
+				  <img src="images/nav.png" class="opan-arrow" alt=""/>
+				  <img src="images/nav-home.png" class="opan-home" alt="" />
+				  <img src="images/left-arrow.png" class="cancel-arrow" alt="" />
 		        </div>
 			  <div class="menu-block">	
                 <ul class="list-unstyled components">
@@ -50,12 +50,16 @@
                     <li><a href="locate-partner.php">Partners</a></li>
                     <li><a href="career.php">Careers</a></li>
                     <li><a href="case.php">Case Study</a></li>
-                    <li><a href="pick-to-ship.php">Butler PickPal</a></li>
+                  <!--<li><a href="pick-to-ship.php">Butler PickPal</a></li>
                     <li><a href="greymatter.php">GreyMatter</a></li>
-                    <li><a href="pick-put-to-light.php">Pick Put To Light</a></li>
-                </ul>
+                    <li><a href="pick-put-to-light.php">Pick Put To Light</a></li>-->
+				</ul>
              </div>
-                
+                <div class="offset-md-2 col-md-9 footer-sidebar">
+				  	 <a href="https://www.facebook.com/gogreyorange" target="_blank"><img src="images/facebook.png" alt="facebook"></a>
+	                 <a href="https://twitter.com/gogreyorange" target="_blank"><img src="images/twitter.png" alt="twitter"></a>
+	                 <a href="https://www.linkedin.com/company/gogreyorange" target="_blank"><img src="images/linkdin.png" alt="linkdin"></a>
+				</div>
             </nav>
 		</div>	
     </div>	

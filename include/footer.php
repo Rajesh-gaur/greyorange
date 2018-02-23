@@ -80,7 +80,7 @@
 	   <div class="row">
 	 
 	  <div class="col-sm-4">	   
-	   <div class="copyright">Copyright © 2018 <strong>GREYORANGE.</strong> All Rights Reserved</div>
+	   <div class="copyright">Copyright © 2018 <strong>GREYORANGE.</strong> All Rights Reserved Designed and Developed by <a href="http://www.fourtek.com/" target="_blank">fourtek.com</a></div>
       </div>  
 	  
 	  <div class="col-sm-6">	

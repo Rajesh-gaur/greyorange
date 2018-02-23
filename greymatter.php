@@ -22,7 +22,7 @@
   <div class="clear-fix"></div>
 
 	<section class="inner-banner butler-bg">
-	  <div class="container">
+	  <div class="container-fluid">
 	   <div class="inner-head">
 	       
 		   <nav aria-label="breadcrumb">
@@ -34,9 +34,7 @@
 			</nav>
 		</div>
 		</div>
-		<div class="banner-image">
-	     <img src="images/greymetter-banner-top.jpg" alt="butler"/>
-		</div>
+		<div class="banner-image greymetter-banner"></div>
         <div class="container">		
 		    <div class="butler-short-desc wow fadeInUp" data-wow-delay="0.2s"><br/>
 			   <p>Warehouses of today face a very different set of challenges such as globalization, product complexity, shorter development
@@ -161,15 +159,37 @@
 	 
 	<div class="container bulter-img-pics">
 	<div class="row">
-		<div class="col-md-6 col-sm-12">
+		<div class="col-md-6 col-sm-12 imagebox">
 		  <div class="row">
-		   <img src="images/sorter-footer-big.jpg" class="img-fluid" alt="" />
+		       <img src="images/sorter-footer-big.jpg" class="img-fluid" alt="" />
+				 <div class="imagebox-content">
+					<h5>
+						<a class="imagebox-title" href="#">Sorter </a>
+					</h5>
+					<div class="imagebox-text">
+						<p>Need - based & Cose Optimized Sortation Product</p>
+					</div>
+					<div class="imagebox-arrow"></div>
+				</div>
+				<span class="overlay"></span> 
+		   
 		   </div>
 		</div>
 		
-       <div class="col-md-6 col-sm-12">
+       <div class="col-md-6 col-sm-12 imagebox">
 	     <div class="row">
 		   <img src="images/butler-footer-big.jpg" class="img-fluid" alt="" />
+		   <div class="imagebox-content">
+					<h5>
+						<a class="imagebox-title" href="#">Butler </a>
+					</h5>
+					<div class="imagebox-text">
+						<p>Decision Science Driven </p>
+						<p>Goods to Person System</p>
+					</div>
+					<div class="imagebox-arrow"></div>
+				</div>
+				<span class="overlay"></span> 
 	  	 </div>
 		</div>
 	</div>	

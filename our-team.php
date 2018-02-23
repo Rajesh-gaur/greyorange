@@ -23,7 +23,7 @@
   
   <div class="clear-fix"></div>
 	<section class="inner-banner"><br/>
-	  <div class="container">
+	  <div class="container-fluid">
 	   <div class="inner-head row">	       
 		  <div class="col-sm-12 col-md-4">
 		   <h1>LEADERSHIP</h1>

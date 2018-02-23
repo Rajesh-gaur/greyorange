@@ -22,7 +22,7 @@
   <div class="clear-fix"></div>
 
 	<section class="inner-banner butler-bg">
-	  <div class="container">
+	  <div class="container-fluid">
 	   <div class="inner-head">
 	       
 		   <nav aria-label="breadcrumb">
@@ -35,9 +35,7 @@
 		  </div>
 		</div>
 	
-	    <div class="banner-image">  
-		 <img src="images/sorter-banner.jpg" alt="sorter"/>
-		</div>
+	    <div class="banner-image sorter-banner"> </div>
 		
 		
 		 <div class="container">
@@ -287,10 +285,22 @@
 	 
 	<div class="container bulter-img-pics">
 	<div class="row">
-		<div class="col-sm-6">
-		  <div class="row"><img src="images/grey-metter-img.jpg" class="img-fluid" alt="" /></div>
+		<div class="col-sm-6 imagebox">
+		  <div class="row">
+		  <img src="images/grey-metter-img.jpg" class="img-fluid" alt="" />			
+			<div class="imagebox-content">				
+				<p>Powered by</p>
+				<h5><a class="imagebox-title" href="#">GreyMatter<span>TM</span></a></h5>
+				<div class="imagebox-text">
+					<p>Execution Engine | Core Operating Platform | Enterprise Integration Layer 
+					</p>
+				</div>
+				<div class="imagebox-arrow"></div>
+			</div>
+			<span class="overlay"></span>   
+		  </div>
 		</div>		
-         <div class="col-sm-6">
+         <div class="col-sm-6 imagebox">
 	       <div class="row"><img src="images/revolutionary.jpg" class="img-fluid" alt="" /></div>
 		 </div>
 	  </div>	

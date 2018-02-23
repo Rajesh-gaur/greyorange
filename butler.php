@@ -14,7 +14,6 @@
   <link href="lib/animate/animate.min.css" rel="stylesheet">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
   <link href="css/style.css" rel="stylesheet">
 
 </head>
@@ -23,7 +22,7 @@
   <div class="clear-fix"></div>
 
 	<section class="inner-banner butler-bg">
-	  <div class="container">
+	  <div class="container-fluid">
 	   <div class="inner-head">
 	       
 		   <nav aria-label="breadcrumb">
@@ -35,9 +34,8 @@
 			</nav>
 		</div>
 		</div>
-		<div class="banner-image">
-	     <img src="images/butler_banner.jpg" alt="butler"/>
-		</div>
+		<div class="banner-image butler-banner"></div>
+		
         <div class="container">		
 		    <div class="butler-short-desc"><br/>
 			  <p>Reducing order fulfillment, inventory replenishment time, 
@@ -295,19 +293,40 @@
 	    </div>
 	
 	 
-	<div class="container bulter-img-pics">
+	<div class="container bulter-img-pics ">
 	<div class="row">
-		<div class="col-md-6 col-sm-12">
+		<div class="col-md-6 col-sm-12 imagebox">
 		  <div class="row">
-		   <img src="images/grey-metter-img.jpg" class="img-fluid" alt="" />
+		    <img src="images/grey-metter-img.jpg" class="img-fluid" alt="" />			
+			<div class="imagebox-content">				
+				<p>Powered by</p>
+				<h5><a class="imagebox-title" href="#">GreyMatter<span>TM</span></a></h5>
+				<div class="imagebox-text">
+					<p>Execution Engine | Core Operating Platform | Enterprise Integration Layer 
+					</p>
+				</div>
+				<div class="imagebox-arrow"></div>
+			</div>
+			<span class="overlay"></span>   
+			 
 		   </div>
 		</div>
 		
-       <div class="col-md-6 col-sm-12">
+       <div class="col-md-6 col-sm-12 imagebox">
 	     <div class="row">
 		   <img src="images/pickto-ship-img.jpg" class="img-fluid" alt="" />
+		    <div class="imagebox-content">
+				<h5>
+					<a class="imagebox-title" href="#">Pick TO Ship system</a>
+				</h5>
+				<div class="imagebox-text">
+					<p>Autonomous Fulfillment For E-Commerce Warehouse </p>
+				</div>
+				<div class="imagebox-arrow"></div>
+			</div>
+			<span class="overlay"></span> 
 	  	 </div>
-		</div>
+	   </div>
 	</div>	
 	</div>	
 
@@ -328,7 +347,6 @@
   <script src="lib/counterup/counterup.min.js"></script>
   <script src="lib/owlcarousel/owl.carousel.min.js"></script>
   <script src="lib/isotope/isotope.pkgd.min.js"></script>
-  <script src="lib/lightbox/js/lightbox.min.js"></script>
   <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
 
   <script src="js/main.js"></script>
