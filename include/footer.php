@@ -4,7 +4,8 @@
 	  
         <div class="get-in-touch text-center">
 	     <h2><strong>Need Some Help? </strong>Lets Connect</h2>
-	       <a class="cta-btn btn" href="#myModal" data-toggle="modal">Get in touch</a>
+		 <a class="cta-btn btn" href="contact.php">Get in touch</a>
+	       <!--<a class="cta-btn btn" href="#myModal" data-toggle="modal">Get in touch</a>-->
 	    </div>	  
 	  </div>
 	 </div>
@@ -12,7 +13,7 @@
 	 
 <!--model-popup-->
   
-<div class="modal" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalVerticalLabel" aria-hidden="true">
+<!--<div class="modal" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalVerticalLabel" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -72,7 +73,7 @@
            
         </div>
     </div>
-</div>
+</div>-->
 <!--model-popup-end-->	 
 	 
 	 

@@ -104,7 +104,7 @@ automation in warehouses, fulfillment centers and distribution centers</p>
                 <img src="images/recognitions.png" alt="" class="img-fluid">              
               </div>			  
               <div class="offset-md-2 col-sm-8 about-btns">
-			    <a href="#" class="btn know-btn">Know More</a>			  
+			    <a href="about-company.php" class="btn know-btn">Know More</a>			  
 			    <a href="contact.php" class="btn connect-btn">Connect with us</a>
               </div>			  
             </div>
@@ -170,13 +170,14 @@ automation in warehouses, fulfillment centers and distribution centers</p>
 
           <div class="case-block col-lg-4 col-md-6 wow fadeInUp">
             <div class="member imagebox">
-              <img src="images/ecommerce-fulfill.jpg" class="img-fluid" alt="">
-			  <span class="overlay"></span>   
+               <a href="ecommerce-fulfillment.php"><img src="images/ecommerce-fulfill.jpg" class="img-fluid" alt="">
+			  <span class="overlay"></span></a>   
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Vertical Ecommerce Fulfillment</h4>
                   <span><a href="ecommerce-fulfillment.php">Japan’s largest home furnishing chain (400 stores),
-fulfilling online orders from over 10,000 SKUs</a></span>   
+fulfilling online orders from over 10,000 SKUs</a></span> 
+                  <div class="case-home-readmore"><a href="ecommerce-fulfillment.php">Read More</a></div>  
                 </div>
               </div>
             </div>
@@ -184,13 +185,14 @@ fulfilling online orders from over 10,000 SKUs</a></span>
            
           <div class="case-block col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member imagebox">
-              <img src="images/order-consolidation.jpg" class="img-fluid" alt="">
-			   <span class="overlay"></span>   
+              <a href="order-consolidation.php"><img src="images/order-consolidation.jpg" class="img-fluid" alt="">
+			   <span class="overlay"></span></a>   
               <div class="member-info">
                 <div class="member-info-content">
                  <h4>Order Consolidation</h4>
                   <span><a href="order-consolidation.php">Delivered
-higher throughput order consolidation for vertical e-commerce.</a></span>  
+higher throughput order consolidation for vertical e-commerce.</a></span>
+                    <div class="case-home-readmore"><a href="order-consolidation.php">Read More</a></div>    
                 </div>
               </div>
             </div>
@@ -198,12 +200,13 @@ higher throughput order consolidation for vertical e-commerce.</a></span>
 
           <div class="case-block col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member imagebox">
-              <img src="images/case1.jpg" class="img-fluid" alt="">
-			   <span class="overlay"></span>   
+              <a href="parcel-sortation.php"><img src="images/case1.jpg" class="img-fluid" alt="">
+			   <span class="overlay"></span> </a>  
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Parcel Sortation</h4>
-                  <span><a href="parcel-sortation.php">Delivered higher throughput parcel sortation for 3PL/E-Commerce/Parcel Courier</a></span>                 
+                  <span><a href="parcel-sortation.php">Delivered higher throughput parcel sortation for 3PL/E-Commerce/Parcel Courier</a></span>
+                  <div class="case-home-readmore"><a href="parcel-sortation.php">Read More</a></div> 				  
                 </div>
               </div>
             </div>
@@ -382,11 +385,12 @@ function myFunction() {
     btn.innerHTML = "Play";
   }
 }
-</script>
-<script>
 jQuery(window).load(function(){
   jQuery('#dvLoading').fadeOut(2000);
 });
+
+
+
 </script>
 </body>
 </html>

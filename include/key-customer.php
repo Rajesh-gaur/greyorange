@@ -10,7 +10,7 @@
 				  <img src="images/jabong.png" alt="jabong">
 				</div>
 			  </div>			
-			 <div class="viewall col-lg-1 col-md-2"> <a href="javascript:;">View All</a></div>			 
+			 <!--<div class="viewall col-lg-1 col-md-2"> <a href="javascript:;">View All</a></div>	-->		 
 		   </div>
 		 </div>
 		</article><!-- #clients -->

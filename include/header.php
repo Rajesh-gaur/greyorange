@@ -7,13 +7,13 @@
       </div>      
 	  <div class="head-menu">
 	    <ul>
-		   <li><a href="sorter.php">Products</a>
-		     <ul class="menu-dropdown">
-			   <li><a href="butler.php">Butler</a></li>
+		   <li><a href="javascript:;">Products</a>
+		     <ul class="menu-dropdown animated bounceIn" role="menu">
+			  <li><a href="butler.php">Butler</a></li>
 			   <li><a href="sorter.php">Sorter</a></li>
 			 </ul>		   
 		   </li>
-		   <li><a href="#">Support</a></li>
+		   <li><a href="javascript:;">Support</a></li>
 		   <li><a href="contact.php">Contact Us</a></li>
 		</ul>
 	  </div>
